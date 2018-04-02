@@ -1,16 +1,16 @@
-name: "Trà Ngủ Ngon"
-title: "Trà Ngủ Ngon"
-slogan: "Cho Giấc Ngủ Say Nồng"
+name: "Trà Hoa"
+title: "Trà Hoa"
+slogan: "Thanh Lọc Máu - Giải Độc Gan - Sức Khỏe Thịnh Vượng"
 email: darius@tanbinhchi.vn
 description: ""
-url: "https://trangungon.com"
-base url: "https://trangungon.com"
+url: "https://trahoa.net"
+base url: "https://trahoa.net"
 allow_search_engine: false
 google_verify: "9vQ_NFIz2HfVuAG0KOJ9LaA5cqurYY2Sdeu8upvecJE"
 bing_verify: ""
 google_analytics: "UA-108819307-12"
 google_plus: 
-disqus_shortname: "trangungon"
+disqus_shortname: "trahoa"
 
 # Build Settings
 markdown: "kramdown"
