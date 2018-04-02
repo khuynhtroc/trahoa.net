@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="vi-VN">
+
+<head>
+
+	{% include head.html %}
+
+</head>
+
+<body>
+
+	{% include after_open_body.html %}
+	
+	<!-- Wrapper -->
+    <div id="wrapper">
+
+    	{% include topbar.html %}
+
+		{% include header.html %}
+
+		{{ content }}
+
+		{% include footer.html %}
+
+    </div>
+    <!-- end: Wrapper -->
+
+	{% include footer_script.html %}
+
+	{% include script.html %}
+
+
+</body>
+
+</html>

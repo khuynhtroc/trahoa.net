@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="vi-VN">
+
+<head>
+
+	{% include head.html %}
+
+</head>
+
+<body>
+
+	{% include after_open_body.html %}
+	
+	<!-- Wrapper -->
+    <div id="wrapper">
+
+    	{% include topbar.html %}
+
+		{% include header.html %}
+
+		<!-- Page title -->
+        <section id="page-title" data-parallax-image="{{ site.url }}/media/images/banner-page.jpg">
+			<div class="container">
+				<div class="page-title">
+					<h1>{{ page.title }}</h1>
+					<span>{{ page.description }}</span>
+				</div>
+				<div class="breadcrumb">
+					<ul>
+						<li><a href="{{ site.url }}">Home</a></li>
+						<li class="active"><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<!-- end: Page title -->
+
+		<!-- FULL WIDTH PAGE -->
+		<section>
+			<div class="container">
+
+			{{ content }}
+
+			</div>
+		</section>
+		<!-- end: FULL WIDTH PAGE -->
+
+		{% include footer.html %}
+
+    </div>
+    <!-- end: Wrapper -->
+
+	{% include footer_script.html %}
+
+	{% include script.html %}
+
+
+</body>
+
+</html>

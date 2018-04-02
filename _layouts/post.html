@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="vi-VN">
+
+<head>
+
+	{% include head.html %}
+
+</head>
+
+<body>
+
+    {% include after_open_body.html %}
+
+	<!-- Wrapper -->
+    <div id="wrapper">
+
+        {% include topbar.html %}
+
+		{% include header.html %}
+
+		<!-- Page Content -->
+        <section id="page-content" class="sidebar-right">
+            <div class="container">
+                <div class="row">
+                    <!-- content -->
+                    <div class="content col-md-9">
+                        <!-- Blog -->
+                        <div id="blog" class="single-post">
+                            <!-- Post single item-->
+                            <div class="post-item">
+                                <div class="post-item-wrap">
+
+                                	<!--div class="breadcrumb float-left">
+                            		    <ul>
+                            		        <li><a href="{{ site.url }}"><i class="fa fa-home"></i> Trang chủ</a></li>
+                            		        <li><a href="{{ site.url }}/{{ page.category }}">Blog</a></li>
+                            		        <li class="active"><a href="{{ page.url }}">{{ page.title }}</a></li>
+                            		    </ul>
+                            		</div-->
+
+                                    <div class="breadcrumb float-left fancy">
+                                        <ul>
+                                            <li><a href="{{ site.url }}"><i class="fa fa-home"></i>  Trang Chủ</a></li>
+                                            <li><a href="{{ site.url }}/{{ page.category }}">Tin Tức</a></li>
+                                            <li class="active"><a href="{{ page.url }}">{{ page.title }}</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <hr class="space">
+
+                                    <div class="post-image">
+                                        <a href="{{ post.url }}">
+                                            <img alt="{{ page.title }}" src="{{ page.image }}">
+                                        </a>
+                                    </div>
+
+                                    <div class="post-item-description">
+                                        <h1>{{ page.title }}</h1>
+                                        <div class="post-meta">
+
+                                            <span class="post-meta-date"><i class="fa fa-calendar-o"></i> {{ page.date | date_to_long_string }}</span>
+                                            <span class="post-meta-comments"><a href="#"><i class="fa fa-comments-o"></i> <span class="fb-comments-count" data-href="{{ post.url }}"></span></a> bình luận</span>
+                                            <span class="post-meta-category"><a href="{{ site.url }}/{{ page.category }}"><i class="fa fa-tag"></i> {{ page.category }}</a></span>
+                                            
+                                            <div class="post-meta-share">
+                                                <a class="btn btn-xs btn-slide btn-facebook" href="#">
+                                                    <i class="fa fa-facebook"></i>
+                                                    <span>Facebook</span>
+                                                </a>
+                                                <a class="btn btn-xs btn-slide btn-twitter" href="#" data-width="100">
+                                                    <i class="fa fa-twitter"></i>
+                                                    <span>Twitter</span>
+                                                </a>
+                                                <a class="btn btn-xs btn-slide btn-instagram" href="#" data-width="118">
+                                                    <i class="fa fa-instagram"></i>
+                                                    <span>Instagram</span>
+                                                </a>
+                                                <a class="btn btn-xs btn-slide btn-googleplus" href="mailto:info@tanbinhchi.vn" data-width="80">
+                                                    <i class="fa fa-envelope"></i>
+                                                    <span>Mail</span>
+                                                </a>
+                                            </div>
+                                        </div>
+
+										{{ content }}
+
+									</div>
+
+									<div class="post-tags">
+		            				{% for tag in page.tags %}
+										<a href="{{ site.url }}/tim-kiem/?q={{ tag }}">{{ tag }}</a>
+									{% endfor %}
+                                    </div>
+
+                                    {% include related_posts.html %}
+
+                                    <!-- Comments -->
+                                    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="20" width="100%" data-colorscheme="light" data-version="v2.3">
+                                    </div>
+                                    <!-- end: Comments -->
+                                    
+                                </div>
+                            </div>
+                            <!-- end: Post single item-->
+                        </div>
+
+                    </div>
+                    <!-- end: content -->
+
+					{% include sidebar.html %}
+                    
+                </div>
+            </div>
+        </section>
+        <!-- end: Page Content -->
+
+		{% include footer.html %}
+
+    </div>
+    <!-- end: Wrapper -->
+
+	{% include footer_script.html %}
+
+	{% include script.html %}
+
+
+</body>
+
+</html>

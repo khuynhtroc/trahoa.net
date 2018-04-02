@@ -1,0 +1,116 @@
+
+<!-- Sidebar-->
+<div class="sidebar col-md-3">
+    <div class="pinOnScroll sticky-sidebar">
+        <!--widget newsletter-->
+        <div class="widget widget-newsletter">
+
+            <form id="widget-search-form-sidebar" action="search-results-page.html" method="get" class="form-inline">
+                <div class="input-group">
+                    <input type="text" aria-required="true" name="q" class="form-control widget-search-form" placeholder="Từ khóa tìm kiếm...">
+                    <span class="input-group-btn">
+					<button type="submit" id="widget-widget-search-form-button" class="btn btn-default"><i class="fa fa-search"></i></button>
+					</span>
+				</div>
+            </form>
+        </div>
+        <!--end: widget newsletter-->
+
+        <!--Tabs with Posts-->
+        <div class="widget">
+            <div id="tabs-01" class="tabs simple">
+                <ul class="tabs-navigation">
+                    <li class="active"><a href="#benh-mat-ngu">BỆNH MẤT NGỦ</a> </li>
+                    <li class=""><a href="#dieu-tri-mat-ngu">TRỊ MẤT NGỦ</a> </li>
+                    <li class=""><a href="#mat-ngu-sau-sinh">MẤT NGỦ SAU SINH</a> </li>
+                </ul>
+                <div class="tabs-content">
+                    <div class="tab-pane active" id="benh-mat-ngu">
+                        <div id="post-thumbnail-list">
+                            {% for post in site.categories.benh-mat-ngu limit:5 %}
+                            <div class="post-thumbnail-entry">
+                                <!--img src="{{ post.image }}" alt="{{ post.title }}"-->
+                                <div class="post-thumbnail-content">
+                                    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> {{ post.date | date_to_long_string }}</span>   
+                                    <!--span class="post-meta-category"><i class="fa fa-tag"></i> <a href="{{ site.url }}/{{ post.category }}">{{ post.category }}</a></span-->
+                                </div>    
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="dieu-tri-mat-ngu">
+                        <div id="post-thumbnail-list">
+                            {% for post in site.categories.dieu-tri-mat-ngu limit:5 %}
+                            <div class="post-thumbnail-entry">
+                                <!--img src="{{ post.image }}" alt="{{ post.title }}"-->
+                                <div class="post-thumbnail-content">
+                                    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> {{ post.date | date_to_long_string }}</span>   
+                                    <!--span class="post-meta-category"><i class="fa fa-tag"></i> <a href="{{ site.url }}/{{ post.category }}">{{ post.category }}</a></span-->
+                                </div>    
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="mat-ngu-sau-sinh">
+                        <div id="post-thumbnail-list">
+                            {% for post in site.categories.mat-ngu-sau-sinh limit:5 %}
+                            <div class="post-thumbnail-entry">
+                                <!--img src="{{ post.image }}" alt="{{ post.title }}"-->
+                                <div class="post-thumbnail-content">
+                                    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> {{ post.date | date_to_long_string }}</span>   
+                                    <!--span class="post-meta-category"><i class="fa fa-tag"></i> <a href="{{ site.url }}/{{ post.category }}">{{ post.category }}</a></span-->
+                                </div>    
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--End: Tabs with Posts-->
+
+        <!--widget tags -->
+        <div class="widget  widget-tags">
+            <h4 class="widget-title">TỪ KHÓA</h4>
+            <div class="tags">
+                {% for tag in page.tags %}
+					<a href="{{ site.url }}/tim-kiem/?q={{ tag }}">{{ tag }}</a>
+				{% endfor %}
+            </div>
+        </div>
+        <!--end: widget tags -->
+
+        <div class="grid-item">
+            <!--Modal Box-->
+            <div class="widget text-center border-box">
+                <h3>CHUYÊN GIA TƯ VẤN</h3>
+                <p>Gửi cho chuyên gia và đội ngũ Dược Sĩ của chúng tôi các vấn đề bạn đang gặp phải!</p>
+
+                <!--Modal trigger button-->
+                <a href="#modalShop" data-lightbox="inline" class="btn btn-modal btn-shadow btn-rounded">ĐĂNG KÝ</a>
+                <!--End: Modal trigger button-->
+
+                <div id="modalShop" class="modal no-padding" data-delay="2000" style="max-width: 700px;">
+                    <div class="col-sm-6 hidden-xs no-padding" style="background: transparent url(&quot;images/shop-bg.jpg&quot;) no-repeat scroll center top / cover; height:470px;"></div>
+                    <div class="col-sm-6">
+                        <div class="p-40 p-xs-20">
+                            <h2>BIG SALE <small>Up to</small></h2>
+
+                            <h2 class="text-extra-large text-green lh80 m-b-30">70%</h2>
+                            <p class="m-b-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, sem quis ipsum dolor sit amet lacinia faucibus.</p>
+
+                            <a class="btn btn-shadow btn-rounded btn-block">SHOP NOW!</a><small class="t300"><p class="text-center"><em>* Limited time Offer</em></p></small>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!--End: Modal Box-->
+        </div>
+
+    </div>
+</div>
+<!-- end: sidebar-->

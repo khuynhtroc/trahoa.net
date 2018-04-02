@@ -1,0 +1,55 @@
+name: "Trà Ngủ Ngon"
+title: "Trà Ngủ Ngon"
+slogan: "Cho Giấc Ngủ Say Nồng"
+email: darius@tanbinhchi.vn
+description: ""
+url: "https://trangungon.com"
+base url: "https://trangungon.com"
+allow_search_engine: false
+google_verify: "9vQ_NFIz2HfVuAG0KOJ9LaA5cqurYY2Sdeu8upvecJE"
+bing_verify: ""
+google_analytics: "UA-108819307-12"
+google_plus: 
+disqus_shortname: "trangungon"
+
+# Build Settings
+markdown: "kramdown"
+encoding: "UTF-8"
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# http://jekyllrb.com/docs/permalinks/
+# /:title/ /:title.html
+permalink:   "/:categories/:title/"
+
+# Amount of post to show on home page
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+future: true
+highlighter: rouge
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  # http://jekyllrb.com/docs/templates/#gist
+  # - jekyll-gist
+  # - jekyll-less
+include: [".htaccess", "LICENSE.txt", "*.woff", "*.ttf"]
+exclude: ["_site", lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "vendor"]
+collections:
+  pages:
+    output: true
+
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="vi-VN">
+
+<head>
+
+	{% include head.html %}
+
+</head>
+
+<body>
+
+	{% include after_open_body.html %}
+	
+	<!-- Wrapper -->
+    <div id="wrapper">
+
+    	{% include topbar.html %}
+
+		{% include header.html %}
+
+		<!-- Page title -->
+        <section id="page-title">
+        	<!-- post content --> 
+      
+      		<!-- Page title -->
+			<div class="container">
+				<h1>{{ page.title }}</h1>
+				<div class="breadcrumb float-left">
+					<ul>
+						<li><a href="{{ site.url }}">Home</a></li>
+						<li class="active"><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- end: Page title -->
+
+			{{ content }}
+
+		</section>
+
+		{% include footer.html %}
+
+    </div>
+    <!-- end: Wrapper -->
+
+	{% include footer_script.html %}
+
+	{% include script.html %}
+
+
+</body>
+
+</html>
