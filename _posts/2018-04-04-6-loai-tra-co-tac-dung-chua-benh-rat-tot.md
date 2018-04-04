@@ -12,7 +12,7 @@ tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi béo phì beo phi tim
 permalink: "/tra-phong-benh-ung-thu.html"
 published: true
 sitemap: true
-image: "https://i.imgur.com/QpWtow1.jpg"
+image: "https://i.imgur.com/0HneRv6.jpg"
 date: 2018-04-04 14:05:00
 author: Ngọc Thanh
 ---
