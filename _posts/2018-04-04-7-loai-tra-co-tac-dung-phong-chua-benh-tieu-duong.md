@@ -8,7 +8,7 @@ meta-description: ""
 meta-keywords: "trà hoa, trà hoa Bình Chi, trà bồ công anh, uống trà chữa bệnh, trà thảo dược, tiểu đường"
 categories: song-khoe-moi-ngay tin-tuc
 category: song-khoe-moi-ngay
-tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi
+tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi benh-tieu-duong chua-tri-benh-tieu-duong bệnh tiểu đường
 permalink: "/tra-phong-benh-tieu-duong.html"
 published: true
 sitemap: true
