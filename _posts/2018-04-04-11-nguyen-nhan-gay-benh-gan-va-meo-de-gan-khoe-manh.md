@@ -6,8 +6,8 @@ description: ""
 meta-title: "11+ nguyên nhân gây bệnh gan và cách phòng tránh"
 meta-description: ""
 meta-keywords: "trà hoa, trà hoa Bình Chi, chữa bệnh, trà thảo dược, béo phì, tiêu hóa, ung thư, bệnh gan"
-categories: song-khoe-moi-ngay tin-tuc
-category: song-khoe-moi-ngay
+categories: benh-man-tinh tin-tuc
+category: benh-man-tinh
 tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi béo phì beo phi tim mạch tim mach tiêu hóa tiêu hoa ung thư ung thu bệnh gan benh gan
 permalink: "/nguyen-nhan-gay-benh-gan.html"
 published: true
