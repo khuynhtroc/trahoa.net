@@ -61,7 +61,7 @@ Trà từ cây xô thơm là có khả năng tăng cường hoạt động của
 
 ## 7. Trà hoa Bình Chi
 
-<img  src="https://i.imgur.com/sOHCMnZ.jpg" alt="lợi ích của trà hoa" class="image_fade responsive-img lazy" border="2">
+<img  src="https://i.imgur.com/QpWtow1.jpg" alt="lợi ích của trà hoa" class="image_fade responsive-img lazy" border="2">
 
 **Trà hoa Bình Chi** có chứa bồ công anh châu Âu và nấm Chaga giúp ngăn ngừa các biến chứng của bệnh tiểu đường trong tương lai. Đồng thời cũng giúp ức chế hoạt động và hỗ trợ giảm dần đường huyết về mức ổn định.
 
