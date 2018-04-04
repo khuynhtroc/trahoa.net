@@ -12,7 +12,7 @@ tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi
 permalink: "/tra-phong-benh-tieu-duong.html"
 published: true
 sitemap: true
-image: "https://i.imgur.com/sceYXUe.jpg"
+image: "https://i.imgur.com/QpWtow1.jpg"
 date: 2018-04-04 11:05:00
 author: Ngọc Thanh
 ---
