@@ -1,7 +1,4 @@
-
--font-family: 'Pacifico', cursive;
--font-family: 'Lobster', cursive;
--font-family: 'Dancing Script', cursive; /* 
+/* 
 
 1. Add your custom Css styles below
 2. Place the this code in your template: 
@@ -14,3 +11,16 @@
 font-family: 'Pacifico', cursive;
 font-family: 'Lobster', cursive;
 font-family: 'Dancing Script', cursive; 
+
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.image-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
