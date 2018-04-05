@@ -29,7 +29,7 @@ Khi bạn uống rượu, gan bị phân tán các chức năng khác và tập 
 
 ## 2. Béo phì
 
-<https://i.imgur.com/ium1z6f.jpg" alt="nguyên nhân gây bệnh gan" class="image_fade responsive-img lazy" border="2">
+<img  src="https://i.imgur.com/ium1z6f.jpg" alt="nguyên nhân gây bệnh gan" class="image_fade responsive-img lazy" border="2">
 
 Những người béo phì có xu hướng tích tụ mỡ trong gan gây ra tình trạng gan nhiễm mỡ. Béo phì cũng liên quan tới xơ gan và suy gan.
 
