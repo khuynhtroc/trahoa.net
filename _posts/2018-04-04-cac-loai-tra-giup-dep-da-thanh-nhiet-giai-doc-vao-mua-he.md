@@ -8,7 +8,7 @@ meta-description: ""
 meta-keywords: "trà hoa, trà hoa Bình Chi, thanh nhiệt, giải độc, đẹp da"
 categories: song-khoe-moi-ngay tin-tuc
 category: song-khoe-moi-ngay
-tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi béo phì beo phi tim mạch tim mach tiêu hóa tiêu hoa ung thư ung thu bệnh gan benh gan trà giải nhiệt mát gan tra giai nhiet mat gan trà mát gan trị mụn tra mat gan tri mun
+tags: trà-hoa trà-hoa-Bình-Chi béo-phì tim-mạch tiêu-hóa ung-thư bệnh-gan trà-giải-nhiệt-mát-gan trà-mát-gan-trị-mụn
 permalink: "/tra-thanh-nhiet-giai-doc.html"
 published: true
 sitemap: true

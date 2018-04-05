@@ -8,7 +8,7 @@ meta-description: ""
 meta-keywords: "trà hoa, trà hoa Bình Chi, chữa bệnh, trà thảo dược, béo phì, tiêu hóa, ung thư, bệnh gan"
 categories: benh-man-tinh tin-tuc
 category: benh-man-tinh
-tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi béo-phì tim-mạch tiêu-hóa ung-thư bệnh-gan
+tags: trà-hoa trà-hoa-Bình-Chi béo-phì tim-mạch tiêu-hóa ung-thư bệnh-gan
 permalink: "/nguyen-nhan-gay-benh-gan.html"
 published: true
 sitemap: true

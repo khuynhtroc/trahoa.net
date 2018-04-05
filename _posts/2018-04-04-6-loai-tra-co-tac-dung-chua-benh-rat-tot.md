@@ -8,7 +8,7 @@ meta-description: ""
 meta-keywords: "trà hoa, trà hoa Bình Chi, chữa bệnh, trà thảo dược,béo phì, tim mạch, tiêu hóa, ung thư"
 categories: song-khoe-moi-ngay tin-tuc
 category: song-khoe-moi-ngay
-tags: tra-hoa trà-hoa trà-hoa-Bình-Chi tra-hoa-Binh-Chi béo phì beo phi tim mạch tim mach tiêu hóa tiêu hoa ung thư ung thu
+tags: trà-hoa trà-hoa-Bình-Chi béo-phì tim-mạch tiêu-hóa ung-thư bệnh-gan
 permalink: "/tra-phong-benh-ung-thu.html"
 published: true
 sitemap: true
