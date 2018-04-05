@@ -3,7 +3,7 @@ layout: post
 title: "Các loại trà giúp đẹp da, thanh nhiệt và giải độc vào mùa hè"
 h1-title: "Các loại trà giúp đẹp da, thanh nhiệt và giải độc vào mùa hè"
 description: ""
-meta-title: "10 loại trà giúp đẹp da, thanh lọc cơ thể vào mùa hè"
+meta-title: "10+ loại trà giúp đẹp da, mát gan, thanh lọc cơ thể"
 meta-description: ""
 meta-keywords: "trà hoa, trà hoa Bình Chi, thanh nhiệt, giải độc, đẹp da"
 categories: song-khoe-moi-ngay tin-tuc
