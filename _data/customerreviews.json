@@ -1,53 +1,32 @@
 [
     {
-        "id": "5",
-        "sku": "tra-ngu-ngon-binh-chi",
-        "nickname": "TRẦN THU LÂM",
-        "name": "TRẦN THU LÂM - 5",
-        "rating": 5,
-        "title": "Cảm ơn Trà ngủ ngon này",
-        "description": "Mình năm nay 25 tuổi và mới sinh bé được hơn tháng, từ khi sinh em bé mình ngủ không sâu giấc, đêm hầu như không ngủ được, thêm việc em bé quấy khóc nên em rất stress và mệt mỏi, sữa thì ngày càng ít không đủ cho con ăn. May nhờ có bà chị giới thiệu sản phẩm trà ngủ ngon này, bạn đầu thấy vị cũng chưa quen nhưng sau ngủ được nên mình cứ uống riết thành quen. Đến giờ đã có thể ngủ trở lại bình thường. Cảm ơn cty và sản phẩm rất nhiều ạ",
-        "avatar": "https://trangungon.com/media/images/khach-hang/le-xuan-huong.jpg"
-    },
-    {
-        "id": "4",
-        "sku": "tra-ngu-ngon-binh-chi",
-        "nickname": "TRẦN HÀ",
-        "name": "TRẦN HÀ - 4",
-        "rating": 5,
-        "title": "Tuyệt vời",
-        "description": "Trà chưa cần biết ngon hay ko, nhưng với cách bán hàng và phục vụ khách hàng thì xứng đáng 5☆ nhé. Hàng ship rất nhanh. Mua hàng xong vẫn được các bạn gọi điện hỏi han, tư vấn. Trà thơm ngon và giọng nói trong điện thoại cũng rất ngọt ngào nữa. Lần sau sẽ vẫn tiếp tục ủng hộ Tân Bình Chi nhé!",
-        "avatar": "https://trangungon.com/media/images/khach-hang/le-xuan-huong.jpg"
-
-    },
-    {
         "id": "3",
-        "sku": "tra-ngu-ngon-binh-chi",
+        "sku": "binh-chi-tra-hoa",
         "nickname": "THANH ANH",
         "name": "THANH ANH - 3",
         "rating": 5,
         "title": "Rất tiện lợi và sử dụng hiệu quả",
-        "description": "Mình thật sự rất thích Trà Ngủ Ngon Bình Chi, rất hy vọng các bạn vẫn duy trì được phong độ như hiện tại và có thể phát triển hơn nữa trong tương lai.",
+        "description": "Tôi bị căng thẳng do công việc đã cả tuần nay, nhờ đứa cháu giới thiệu sản phẩm trà hoa này uống thấy rất dễ chịu, cảm giác thoải mái và hanh thông mọi thứ, tỉnh táo để làm việc hơn. Xin cảm ơn công ty…",
         "avatar": "https://trangungon.com/media/images/khach-hang/thanh-anh.jpg"
     },
     {
         "id": "2",
-        "sku": "tra-ngu-ngon-binh-chi",
+        "sku": "binh-chi-tra-hoa",
         "nickname": "NGÂN NGUYỄN",
         "name": "NGÂN NGUYỄN - 2",
         "rating": 5,
         "title": "Sản phẩm chất lượng",
-        "description": "Mình ở tận DakLak, Tân Bình Chi xa quá tít Hà nội,chưa bao giờ dc thấy tận mắt sờ tận tay nên do dự khi order lắm, nhưng sau khi nhận dc sự tư vấn tận tâm và nhiệt tình của đội ngũ Dược Sĩ mình quyết định lấy lun. Nhận dc thì ôi thôi, như một món quà mà Tân Bình Chi đã gửi tặng khách hàng vậy, k có từ nào để chê từ bao bì, cách đóng gói sản phẩm đến chất lượng.",
+        "description": "Biết đến trà hoa Bình Chi qua một người bạn thân giới thiệu. Đợt đó mình đang tìm mãi 1 cái sản phẩm để uống thay nước lọc mà vẫn giúp khỏe khoắn, thanh nhiệt, giải độc. Ấn tượng đầu tiên là bao bì rất đẹp, mà cũng rất lạ ý; gói trà bên trong cũng xinh xắn. Khi mình pha trà thì màu nước rất đẹp, vàng nhưng không bị đặc mà rất trong. Uống vào thì thấy nhẹ nhàng hơn, giờ ngày nào mình cũng pha trà bỏ vào bình đem đi làm, không thì trong túi lúc nào cũng có vài ba gói trà. Bị thích trà hoa lắm ý :D…",
         "avatar": "https://trangungon.com/media/images/khach-hang/thanh-anh.jpg"
     },
     {
         "id": "1",
-        "sku": "tra-ngu-ngon-binh-chi",
+        "sku": "binh-chi-tra-hoa",
         "nickname": "LÊ XUÂN HƯỜNG",
         "name": "LÊ XUÂN HƯỜNG - 1",
         "rating": 5,
         "title": "Sản phẩm tuyệt vời",
-        "description": "Mới đầu còn phân vân lựa chọn sản phẩm Trà Ngủ Ngon vì mình khá là kĩ tính trong việc dùng đồ uống. Tuy nhiên sau 2 tuần dùng sản phẩm Trà Ngủ Ngon Bình Chi mình đã bị thuyết phục hoàn toàn! Cám ơn Tân Bình Chi.",
+        "description": "Thật sự khác biệt! Trà của Tân Bình Chi thơm dễ chịu, còn đượm mùi thảo mộc thật! Mình uống đến nước thứ ba mà nước vẫn vàng óng như mật ong vậy, hương vị thì khá dễ uống; bản thân mình là một người khá khó tính khi thưởng trà nhưng cũng đã rất thích loại trà này. Cảm ơn Tân Bình Chi!,…",
         "avatar": "https://trangungon.com/media/images/khach-hang/le-xuan-huong.jpg"
     }
     
