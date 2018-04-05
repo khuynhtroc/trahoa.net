@@ -20,12 +20,11 @@ author: Ngọc Thanh
 
 Dưới đây là những loại thức uống rất hiệu quả cho việc mát gan, làm đẹp da và giải độc cho cơ thể. Hãy lấy sổ tay ra và ghi lại những món đồ uống vừa ngon, vừa mát lại vừa tốt cho sức khỏe này nhé!
 
-## 1. Trà Atiso - Giải độc cơ thể
+## 1. Trà hoa Bình Chi
 
-<img  src="https://i.imgur.com/TY8bNDu.jpg" alt="trà thanh nhiệt giải độc" class="image_fade responsive-img lazy" border="2">
+<img  src="https://i.imgur.com/blyfZdC.png" alt="trà thanh nhiệt giải độc" class="image_fade responsive-img lazy" border="2">
 
-Atiso có tính mát, vị đắng nhạt, hương thơm nhẹ dịu, có tác dụng giúp nhuận gan, lợi mật nên được dùng phổ biến để giải độc cho cơ thể, nhất là ở những đối tượng hút thuốc, uống rượu, thường xuyên làm việc ở những môi trường ô nhiễm, người bị tăng mỡ máu... 
-Nên uống từ 3-4 ly trà mỗi ngày để tăng cường sức khỏe phòng tránh bệnh tật.
+Không chỉ chứa 100% thành phần từ thảo dược thiên nhiên, sự tích cực của trà hoa Bình Chi còn đến từ các nguyên liệu nhập khẩu cao cấp như nấm Chaga Siberia có tác dụng ngăn ngừa sự phát triển của các tế bào ung thư, hay bồ công anh châu Âu giúp giảm các triệu chứng cấp tính của bệnh tiểu đuờng. Trà hoa Bình Chi cũng là thức uống thanh nhiệt, giải độc và đặc biệt được các chị em phụ nữ ưa thích bởi hương vị thơm ngọt dịu nhẹ cũng như khả năng giảm mỡ máu hiệu quả. Nó đáng là một thức uống để các bạn có thể thưởng thức trong hè này đấy!
 
 ## 2. Trà hoa cúc
 
@@ -88,11 +87,12 @@ Bạn có thể mua nó ở cửa hàng hoặc tự pha chế bằng các nguyê
 
 Lợi thế lớn nhất của trà gừng là tốt cho sức khỏe của dạ dày, khắc phục sự cố liên quan đến tiêu hóa kém, đầy hơi và bệnh dạ dày, thậm chí cả ung thư ruột kết.
 
-## 11. Trà hoa Bình Chi
+## 11. Trà Atiso - Giải độc cơ thể
 
-<img  src="https://i.imgur.com/blyfZdC.png" alt="trà thanh nhiệt giải độc" class="image_fade responsive-img lazy" border="2">
+<img  src="https://i.imgur.com/TY8bNDu.jpg" alt="trà thanh nhiệt giải độc" class="image_fade responsive-img lazy" border="2">
 
-Không chỉ chứa 100% thành phần từ thảo dược thiên nhiên, sự tích cực của trà hoa Bình Chi còn đến từ các nguyên liệu nhập khẩu cao cấp như nấm Chaga Siberia có tác dụng ngăn ngừa sự phát triển của các tế bào ung thư, hay bồ công anh châu Âu giúp giảm các triệu chứng cấp tính của bệnh tiểu đuờng. Trà hoa Bình Chi cũng là thức uống thanh nhiệt, giải độc và đặc biệt được các chị em phụ nữ ưa thích bởi hương vị thơm ngọt dịu nhẹ cũng như khả năng giảm mỡ máu hiệu quả. Nó đáng là một thức uống để các bạn có thể thưởng thức trong hè này đấy!
+Atiso có tính mát, vị đắng nhạt, hương thơm nhẹ dịu, có tác dụng giúp nhuận gan, lợi mật nên được dùng phổ biến để giải độc cho cơ thể, nhất là ở những đối tượng hút thuốc, uống rượu, thường xuyên làm việc ở những môi trường ô nhiễm, người bị tăng mỡ máu... 
+Nên uống từ 3-4 ly trà mỗi ngày để tăng cường sức khỏe phòng tránh bệnh tật.
 
 ## 12. Trà lá bạc hà
 
