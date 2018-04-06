@@ -8376,7 +8376,7 @@ a.waves-effect .waves-ripple {
 	z-index: -1
 }
 
-.modal {
+/*.modal {
 	background-color: #fafafa;
 	padding: 0;
 	max-height: 70%;
@@ -8385,7 +8385,7 @@ a.waves-effect .waves-ripple {
 	overflow-y: auto;
 	border-radius: 2px;
 	will-change: top, opacity
-}
+}*/
 
 @media only screen and (max-width:992px) {
 	.modal {
@@ -13601,9 +13601,9 @@ fieldset[disabled] .btn-link:hover {
 	transition: opacity .15s linear
 }
 
-.fade.in {
+/*.fade.in {
 	opacity: 1
-}
+}*/
 
 .collapse {
 	display: none
