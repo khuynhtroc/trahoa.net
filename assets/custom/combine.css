@@ -2462,10 +2462,10 @@ z-depth-1 {
 	box-shadow: 0 12px 15px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19)
 }
 
-.modal,
+/*.modal,
 .z-depth-4 {
 	box-shadow: 0 16px 28px 0 rgba(0, 0, 0, .22), 0 25px 55px 0 rgba(0, 0, 0, .21)
-}
+}*/
 
 .z-depth-5 {
 	box-shadow: 0 27px 24px 0 rgba(0, 0, 0, .2), 0 40px 77px 0 rgba(0, 0, 0, .22)
@@ -8385,7 +8385,7 @@ a.waves-effect .waves-ripple {
 	overflow-y: auto;
 	border-radius: 2px;
 	will-change: top, opacity
-}*/
+}
 
 @media only screen and (max-width:992px) {
 	.modal {
@@ -8461,7 +8461,7 @@ a.waves-effect .waves-ripple {
 	max-height: 45%;
 	border-radius: 0;
 	will-change: bottom, opacity
-}
+}*/
 
 .collapsible {
 	border-top: 1px solid #ddd;
