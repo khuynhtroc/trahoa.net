@@ -20,14 +20,14 @@
         <div class="widget">
             <div id="tabs-01" class="tabs simple">
                 <ul class="tabs-navigation">
-                    <li class="active"><a href="#benh-mat-ngu">BỆNH MẤT NGỦ</a> </li>
-                    <li class=""><a href="#dieu-tri-mat-ngu">TRỊ MẤT NGỦ</a> </li>
-                    <li class=""><a href="#mat-ngu-sau-sinh">MẤT NGỦ SAU SINH</a> </li>
+                    <li class="active"><a href="#benh-man-tinh">BỆNH MÃN TÍNH</a> </li>
+                    <li class=""><a href="#meo-hay">MẸO HAY</a> </li>
+                    <li class=""><a href="#song-khoe-moi-ngay">SỐNG KHỎE MỖI NGÀY</a> </li>
                 </ul>
                 <div class="tabs-content">
                     <div class="tab-pane active" id="benh-mat-ngu">
                         <div id="post-thumbnail-list">
-                            {% for post in site.categories.benh-mat-ngu limit:5 %}
+                            {% for post in site.categories.benh-man-tinh limit:5 %}
                             <div class="post-thumbnail-entry">
                                 <!--img src="{{ post.image }}" alt="{{ post.title }}"-->
                                 <div class="post-thumbnail-content">
@@ -41,7 +41,7 @@
                     </div>
                     <div class="tab-pane" id="dieu-tri-mat-ngu">
                         <div id="post-thumbnail-list">
-                            {% for post in site.categories.dieu-tri-mat-ngu limit:5 %}
+                            {% for post in site.categories.phuong-phap-dieu-tri limit:5 %}
                             <div class="post-thumbnail-entry">
                                 <!--img src="{{ post.image }}" alt="{{ post.title }}"-->
                                 <div class="post-thumbnail-content">
@@ -55,7 +55,7 @@
                     </div>
                     <div class="tab-pane" id="mat-ngu-sau-sinh">
                         <div id="post-thumbnail-list">
-                            {% for post in site.categories.mat-ngu-sau-sinh limit:5 %}
+                            {% for post in site.categories.song-khoe-moi-ngay limit:5 %}
                             <div class="post-thumbnail-entry">
                                 <!--img src="{{ post.image }}" alt="{{ post.title }}"-->
                                 <div class="post-thumbnail-content">
@@ -97,12 +97,12 @@
                     <div class="col-sm-6 hidden-xs no-padding" style="background: transparent url(&quot;images/shop-bg.jpg&quot;) no-repeat scroll center top / cover; height:470px;"></div>
                     <div class="col-sm-6">
                         <div class="p-40 p-xs-20">
-                            <h2>BIG SALE <small>Up to</small></h2>
+                            <h2>KHUYẾN MÃI <small>lên tới</small></h2>
 
                             <h2 class="text-extra-large text-green lh80 m-b-30">70%</h2>
                             <p class="m-b-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, sem quis ipsum dolor sit amet lacinia faucibus.</p>
 
-                            <a class="btn btn-shadow btn-rounded btn-block">SHOP NOW!</a><small class="t300"><p class="text-center"><em>* Limited time Offer</em></p></small>
+                            <a class="btn btn-shadow btn-rounded btn-block">MUA NGAY!</a><small class="t300"><p class="text-center"><em>* Limited time Offer</em></p></small>
                         </div>
                     </div>
                 </div>
