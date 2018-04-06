@@ -11,56 +11,6 @@
 <!--Template functions-->
 <script src="{{ site.url }}/assets/js/functions.js"></script>
 
-<script>
-window.fbMessengerPlugins = window.fbMessengerPlugins || {
-    init:function () {
-        FB.init( {
-            appId: '1481972991928718', autoLogAppEvents:true, xfbml:true, version:'v2.10'
-        }
-
-        );
-    }
-
-    , callable: []
-}
-
-;
-
-window.fbAsyncInit = window.fbAsyncInit || function () {
-    window.fbMessengerPlugins.callable.forEach(function (item) {
-        item();
-    }
-
-    );
-    window.fbMessengerPlugins.init();
-}
-
-;
-
-setTimeout(function () {
-    (function (d,s,id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-
-        if (d.getElementById(id)) {
-            return;
-        }
-
-        js = d.createElement(s);
-        js.id = id;
-        js.src ="//connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js";
-        fjs.parentNode.insertBefore(js, fjs);
-    }
-
-    (document, 'script', 'facebook-jssdk'));
-}
-
-, 0);
-
-</script>
-
-<div class="fb-customerchat" page_id="1279658205513520" ref=""> </div>
-
-
 
 <div class="call-mobile">
     <a href="tel:939878282">093.987.8282</a><a data-target="#modal" data-toggle="modal" href="#"><i class="icon icon-mail"></i></a>
@@ -138,13 +88,13 @@ setTimeout(function () {
 .call-mobile {
     background: #ED1C24;
     position: fixed;
-    bottom: 10px;
+    bottom: 26px;
     height: 40px;
     line-height: 40px;
     padding: 0 0px 0 0px;
     border-radius: 40px;
     color: #fff;
-    left: 20px;
+    left: 80px;
     z-index: 99999;
 }
 
@@ -176,7 +126,7 @@ setTimeout(function () {
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
-    margin-right: 10px;
+    margin-right: 0px;
     padding-left: 10px;
 }
 
