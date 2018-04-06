@@ -1,12 +1,63 @@
-    <!-- Go to top button -->
-    <a id="goToTop"><i class="fa fa-angle-up top-icon"></i><i class="fa fa-angle-up"></i></a>
+<!-- Go to top button -->
+<a id="goToTop"><i class="fa fa-angle-up top-icon"></i><i class="fa fa-angle-up"></i></a>
 
-    <!--Plugins-->
-    <script src="{{ site.url }}/assets/js/jquery.js"></script>
-    <script src="{{ site.url }}/assets/js/plugins.js"></script>
+<!--Plugins-->
+<script src="{{ site.url }}/assets/js/jquery.js"></script>
+<script src="{{ site.url }}/assets/js/plugins.js"></script>
 
-    <!--Template functions-->
-    <script src="{{ site.url }}/assets/js/functions.js"></script>
+<!--Template functions-->
+<script src="{{ site.url }}/assets/js/functions.js"></script>
+
+<script>
+window.fbMessengerPlugins = window.fbMessengerPlugins || {
+    init:function () {
+        FB.init( {
+            appId: '1481972991928718', autoLogAppEvents:true, xfbml:true, version:'v2.10'
+        }
+
+        );
+    }
+
+    , callable: []
+}
+
+;
+
+window.fbAsyncInit = window.fbAsyncInit || function () {
+    window.fbMessengerPlugins.callable.forEach(function (item) {
+        item();
+    }
+
+    );
+    window.fbMessengerPlugins.init();
+}
+
+;
+
+setTimeout(function () {
+    (function (d,s,id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+
+        if (d.getElementById(id)) {
+            return;
+        }
+
+        js = d.createElement(s);
+        js.id = id;
+        js.src ="//connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }
+
+    (document, 'script', 'facebook-jssdk'));
+}
+
+, 0);
+
+</script>
+
+<div class="fb-customerchat" page_id="1279658205513520" ref=""> </div>
+
+
 
 <div class="call-mobile">
     <a href="tel:939878282">093.987.8282</a><i class="icon icon-mail"></i>
