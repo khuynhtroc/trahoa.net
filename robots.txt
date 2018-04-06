@@ -12,7 +12,4 @@ Disallow: /*
 
 {% endif %}
 
-User-agent: AhrefsBot
-Disallow: /
-
 Sitemap: {{ site.url }}/sitemap.xml
