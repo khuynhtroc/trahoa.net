@@ -31,3 +31,48 @@ font-family: 'Dancing Script', cursive; */
     padding-left: 5px;
     padding-right: 5px;
 }
+
+@media (max-width: 479px) {
+    #popWindow{
+    position: fixed;
+    right: 5px!important;
+    bottom: 60px!important;
+    max-width: 75%!important;
+    padding: 5px!important;
+    background: #EFECDC;
+    font-size: 14px!important;
+    border: 1px solid #CCC;
+    border-radius: 20px!important;
+    box-shadow: 1px 1px 5px #999;
+    opacity: 0;
+    z-index: 999;
+overflow: hidden;
+  }
+
+  #popWindow i{
+    color: #ff0000;
+    font-weight: 700;
+  }
+
+}
+
+#popWindow{
+    position: fixed;
+    right: 0px;
+    bottom: 70px;
+    max-width: 220px;
+    padding: 16px;
+    background: #EFECDC;
+    font-size: 17px;
+    border: 1px solid #CCC;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #999;
+    opacity: 0;
+    z-index: 999;
+overflow: hidden;
+  }
+
+  #popWindow i{
+    color: #ff0000;
+    font-weight: 700;
+  }
