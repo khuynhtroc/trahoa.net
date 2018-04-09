@@ -337,7 +337,7 @@ overflow: hidden;
     function setBoxText(a) {
         switch (a) {
             case 1:
-                a = "Bạn có muốn được giảm giá ưu đãi hãy mua ngay thời gian này.";
+                a = "NHANH TAY ĐẶT MUA SẢN PHẨM BÌNH CHI TRÀ  HOA ĐỂ NHẬN ƯU ĐÃI!";
                 var b = genRandNum(150, 250);
                 document.getElementById("popWindow").innerHTML = a.replace("100", "<span>" + b + "</span>");
                 break;
@@ -348,7 +348,7 @@ overflow: hidden;
                     "<b>" + b + "</b>");
                 break;
             case 3:
-                a = "Còn lại HOP cơ hội khuyến mại !", catchText3 = b = genRandNum(50, 100), document.getElementById("popWindow").innerHTML = a.replace("HOP", "<i>" + b + "</i>")
+                a = "Còn lại HOP cơ hội khuyến mại!", catchText3 = b = genRandNum(50, 100), document.getElementById("popWindow").innerHTML = a.replace("HOP", "<i>" + b + "</i>")
         }
     }
 
@@ -368,7 +368,7 @@ overflow: hidden;
             var a = 0,
                 c = setInterval(function() {
                     0 === a && (setBoxText(2), showBoxTime(4, 1));
-                    7 === a && (promoCount--, 0 < promoCount ? document.getElementById("popWindow").innerHTML = "Chỉ còn lại: <i>" + promoCount + "</i> Cơ hội khuyến mại." : document.getElementById("popWindow").innerHTML = "<p>N\u00ea\u0301u ba\u0323n \u0111\u0103\u0323t ngay b\u00e2y gi\u01a1\u0300, ba\u0323n se\u0303 mua \u0111\u01b0\u01a1\u0323c sa\u0309n ph\u00e2\u0309m theo gia\u0301 kuy\u00ea\u0301n ma\u0303i!!!!</p>",
+                    7 === a && (promoCount--, 0 < promoCount ? document.getElementById("popWindow").innerHTML = "Chỉ còn lại: <b><i>" + promoCount + "</i></b> Cơ hội khuyến mại." : document.getElementById("popWindow").innerHTML = "<p>N\u00ea\u0301u ba\u0323n \u0111\u0103\u0323t ngay b\u00e2y gi\u01a1\u0300, ba\u0323n se\u0303 mua \u0111\u01b0\u01a1\u0323c sa\u0309n ph\u00e2\u0309m theo gia\u0301 kuy\u00ea\u0301n ma\u0303i!!!!</p>",
                         showBoxTime(5, .01));
                     14 === a && (clearInterval(c), 0 < promoCount && customLead(genRandNum(2, 20)));
                     a++
