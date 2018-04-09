@@ -33,7 +33,7 @@ font-family: 'Dancing Script', cursive; */
 }
 
 @media (max-width: 479px) {
-.popWindow{
+.popWindow {
     position: fixed;
     right: 5px!important;
     bottom: 60px!important;
@@ -54,7 +54,7 @@ overflow: hidden;
     font-weight: 700;
 }
 }
-.popWindow{
+.popWindow {
     position: fixed;
     right: 0px;
     bottom: 70px;
