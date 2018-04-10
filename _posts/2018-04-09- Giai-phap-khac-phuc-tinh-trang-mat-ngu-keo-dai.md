@@ -9,11 +9,11 @@ meta-keywords: "khắc phục tình trạng khó ngủ với trà ngủ ngon Bì
 categories: tin-tuc phuong-phap-dieu-tri
 category: phuong-phap-dieu-tri
 tags: khac-phuc-tinh-trang-kho-ngu-keo-dai trà-ngủ-ngon
-permalink: "/giai-phap-khac-phuc-tinh-trang-kho-ngu-keo-dai.html
+permalink: "/giai-phap-khac-phuc-tinh-trang-kho-ngu-keo-dai.html"
 published: true
 sitemap: true
 image: "/images/products/Giai-phap-khac-phuc-tinh-trang-mat-ngu-keo-dai.jpg"
-date: 2018-04-09 
+date: 2018-04-09 17:40:00
 author: Thoa Phạm
 ---
 
