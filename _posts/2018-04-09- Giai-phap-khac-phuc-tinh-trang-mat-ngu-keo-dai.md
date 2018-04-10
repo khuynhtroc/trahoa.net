@@ -12,14 +12,14 @@ tags: khac-phuc-tinh-trang-kho-ngu-keo-dai trà-ngủ-ngon
 permalink: "/giai-phap-khac-phuc-tinh-trang-kho-ngu-keo-dai.html"
 published: true
 sitemap: true
-image: "/images/products/Giai-phap-khac-phuc-tinh-trang-mat-ngu-keo-dai.jpg"
+image: "/media/images/tin-tuc/Giai-phap-khac-phuc-tinh-trang-mat-ngu-keo-dai.jpg"
 date: 2018-04-09 17:40:00
 author: Thoa Phạm
 ---
 
 ## Phải làm sao khi tình trạng khó ngủ của bạn cứ kéo dài?
 
-<img  src="/images/products/Giai-phap-khac-phuc-tinh-trang-mat-ngu-keo-dai.jpg" alt="trà ngủ ngon bình chi" class="image_fade responsive-img lazy"> 
+<img src="/media/images/tin-tuc/Giai-phap-khac-phuc-tinh-trang-mat-ngu-keo-dai.jpg" alt="trà ngủ ngon bình chi" class="responsive-img lazy"> 
 
 Bất cứ ai cũng đều không mong muốn mình là nạn nhân của chứng mất ngủ, khó ngủ. Các biểu hiện như khó đi vào giấc ngủ, thức giấc giữa đêm, thức dậy quá sớm vào buổi sáng hay giấc ngủ chập chờn khiến cơ thể mệt mỏi vào buổi sáng, ảnh hưởng đến hiệu quả công việc và khả năng lao động đều là những biểu hiện thường gặp của mất ngủ mãn tính.
 
