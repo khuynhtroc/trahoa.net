@@ -5,7 +5,7 @@ email: darius@tanbinhchi.vn
 description: ""
 url: "https://trahoa.net"
 base url: "https://trahoa.net"
-allow_search_engine: false
+allow_search_engine: true
 google_verify: "Maw1Esc4hiWh67l03VcpGUUxlWbTz41VqSviykvyTQ4"
 bing_verify: ""
 google_analytics: "UA-116691813-1"
