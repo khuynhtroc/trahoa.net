@@ -2462,10 +2462,10 @@ z-depth-1 {
 	box-shadow: 0 12px 15px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19)
 }
 
-.modal,
+/*.modal,
 .z-depth-4 {
 	box-shadow: 0 16px 28px 0 rgba(0, 0, 0, .22), 0 25px 55px 0 rgba(0, 0, 0, .21)
-}
+}*/
 
 .z-depth-5 {
 	box-shadow: 0 27px 24px 0 rgba(0, 0, 0, .2), 0 40px 77px 0 rgba(0, 0, 0, .22)
@@ -8376,7 +8376,7 @@ a.waves-effect .waves-ripple {
 	z-index: -1
 }
 
-.modal {
+/*.modal {
 	background-color: #fafafa;
 	padding: 0;
 	max-height: 70%;
@@ -8461,7 +8461,7 @@ a.waves-effect .waves-ripple {
 	max-height: 45%;
 	border-radius: 0;
 	will-change: bottom, opacity
-}
+}*/
 
 .collapsible {
 	border-top: 1px solid #ddd;
@@ -13601,9 +13601,9 @@ fieldset[disabled] .btn-link:hover {
 	transition: opacity .15s linear
 }
 
-.fade.in {
+/*.fade.in {
 	opacity: 1
-}
+}*/
 
 .collapse {
 	display: none
@@ -14412,7 +14412,7 @@ img.img-responsive {
 
 /*.btn {
 	font-size: 15px important
-}*/
+}
 
 .child-listing {
 	padding-left: 3em
@@ -14676,7 +14676,7 @@ pre.highlight {
 
 .mp-collection .collection .collection-item.active {
 	font-weight: 700
-}*/
+}
 
 #product-review-content ul,
 #product-review-content ul li {
@@ -14901,7 +14901,7 @@ span.badge.coming:after {
 	margin-left: 1em
 }
 
-#kb .card-content,
+/*#kb .card-content,
 .blog .card-content {
 	font-size: 16px
 }
@@ -14920,7 +14920,7 @@ span.badge.coming:after {
 
 #disqus_thread>iframe:nth-child(1) {
 	display: none !important
-}
+}*/
 
 @media only screen and (min-width:993px) {
 	.owl-carousel.owl-loaded.owl-drag {
@@ -14942,31 +14942,3 @@ span.badge.coming:after {
 
 }
 
-.partner-location-list {
-	max-height: 290px;
-	display: block;
-	overflow: hidden
-}
-
-.list-style {
-	list-style-type: square !important
-}
-
-.no-list-style,
-.no-list-style ul,
-.no-list-style ul li {
-	list-style-type: none !important
-}
-
-#privy-container #privy-inner-container div.privy-mobile-tab-container {
-	z-index: 10
-}
-
-#add-to-cart .modal-content #checkout-form h1,
-.modal-content #checkout-form h2,
-.modal-content #checkout-form h3,
-.modal-content #checkout-form h4,
-.modal-content #checkout-form h5,
-.modal-content #checkout-form h6 {
-	display: inline
-}
