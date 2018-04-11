@@ -9681,11 +9681,11 @@ Breadcrumbs
     opacity: 0; }
 
 .mfp-ready .modal {
-  background: #fff;
+  /*background: #fff;*/
   border-radius: 4px;
   display: block;
   margin: 0 auto;
-  max-width: 500px;
+  /*max-width: 500px;*/
   padding: 40px;
   position: relative;
   z-index: 1050; }
