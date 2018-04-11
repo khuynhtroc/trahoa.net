@@ -3,10 +3,10 @@
 include('mailchimp/mailchimp.php');
 
 // Step 1 - Enter your Mailchimp API KEY - more info: http://kb.mailchimp.com/article/where-can-i-find-my-api-key
-$apiKey 	= 'f1c0179d9f4e2ad40343a73d320a83d2-us12';
+$apiKey 	= '7fabf1520e82e34a42856e768c974c32-us18';
 
 // Step 2 - Enter your Mailchimp ListId code - more info: http://kb.mailchimp.com/article/how-can-i-find-my-list-id
-$listId 	= '17a86a556b';
+$listId 	= '8c2b7ddd6d';
 
 
 $email = $_POST['widget-subscribe-form-email'];
