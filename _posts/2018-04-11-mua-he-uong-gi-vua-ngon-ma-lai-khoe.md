@@ -8,7 +8,7 @@ description: ""
 meta-description: ""
 meta-keywords: "Giải nhiệt mùa hè cùng trà hoa Bình Chi, trà hoa, uống trà mùa hè"
 categories: tin-tuc song-khoe-moi-ngay
-category: tra-hoa
+category: song-khoe-moi-ngay
 tags: trà-hoa trà-hoa-bình-chi mùa-hè-uống-trà-hoa-giải-nhiệt
 permalink: "/nuoc-uong-cho-nhung-ngay-he.html"
 published: true
