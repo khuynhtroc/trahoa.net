@@ -14901,7 +14901,7 @@ span.badge.coming:after {
 	margin-left: 1em
 }
 
-#kb .card-content,
+/*#kb .card-content,
 .blog .card-content {
 	font-size: 16px
 }
@@ -14920,7 +14920,7 @@ span.badge.coming:after {
 
 #disqus_thread>iframe:nth-child(1) {
 	display: none !important
-}
+}*/
 
 @media only screen and (min-width:993px) {
 	.owl-carousel.owl-loaded.owl-drag {
@@ -14942,31 +14942,3 @@ span.badge.coming:after {
 
 }
 
-.partner-location-list {
-	max-height: 290px;
-	display: block;
-	overflow: hidden
-}
-
-.list-style {
-	list-style-type: square !important
-}
-
-.no-list-style,
-.no-list-style ul,
-.no-list-style ul li {
-	list-style-type: none !important
-}
-
-#privy-container #privy-inner-container div.privy-mobile-tab-container {
-	z-index: 10
-}
-
-#add-to-cart .modal-content #checkout-form h1,
-.modal-content #checkout-form h2,
-.modal-content #checkout-form h3,
-.modal-content #checkout-form h4,
-.modal-content #checkout-form h5,
-.modal-content #checkout-form h6 {
-	display: inline
-}
