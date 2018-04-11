@@ -189,3 +189,7 @@ img.img-responsive {
 .grey-text {
 	color: #9e9e9e !important
 }
+
+.circle {
+	border-radius: 50%
+}
