@@ -1,0 +1,112 @@
+.card.large .card-content,
+.card.medium .card-content,
+.card.small .card-content {
+	max-height: 40%;
+	overflow: hidden
+}
+
+.card .card-content {
+	padding: 20px;
+	border-radius: 0 0 2px 2px
+}
+
+.card .card-content p {
+	margin: 0;
+	color: inherit
+}
+
+.card .card-content .card-title {
+	line-height: 48px
+}
+
+.card .card-content .card-title {
+	line-height: 35px
+}
+
+.card-content ul,
+.card-content ul li {
+	list-style-type: square;
+	margin: 0 1em
+}
+
+.card .card-content p {
+	padding-top: 1em
+}
+
+.card.medium .card-content {
+	height: 135px
+}
+
+
+.hoverable {
+	transition: box-shadow .25s;
+	box-shadow: 0
+}
+
+.hoverable:hover {
+	transition: box-shadow .25s;
+	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+}
+
+
+.card,
+.card-panel {
+	margin: .5rem 0 1rem;
+	background-color: #fff;
+	transition: box-shadow .25s;
+	border-radius: 2px
+}
+
+.card-panel {
+	padding: 20px
+}
+
+.card,
+.card-panel,
+z-depth-1 {
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12)
+}
+
+.grey.lighten-5 {
+	background-color: #fafafa !important
+}
+
+.valign-wrapper {
+	display: flex;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center
+}
+
+.card .card-image img {
+	display: block;
+	border-radius: 2px 2px 0 0;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	width: 100%
+}
+
+.card .card-image .card-title {
+	color: #fff;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 20px
+}
+
+.card .card-content {
+	padding: 20px;
+	border-radius: 0 0 2px 2px
+}
+
+.card .card-content p {
+	margin: 0;
+	color: inherit
+}
+
+.card .card-content .card-title {
+	line-height: 48px
+}
