@@ -57,6 +57,6 @@ Bột sắn dây (hay còn gọi là vị thuốc Cát căn trong Đông Y) có 
 
 ### 6. Uống trà hoa BÌnh Chi
 
-https://i.imgur.com/9CCmZ9M
+<img src="https://i.imgur.com/9CCmZ9M" alt="trà hoa bình chi" class="img-responsive lazy">
 
 **Trà hoa Bình Chi** có nguồn gốc 100% từ thiên nhiên như nấm chaga, bồ công anh, hoa cúc,kỳ tử, cam thảo... có tác dụng thanh nhiệt giải độc, phòng và điều trị mụn nhọt, rôm sảy rất tốt
