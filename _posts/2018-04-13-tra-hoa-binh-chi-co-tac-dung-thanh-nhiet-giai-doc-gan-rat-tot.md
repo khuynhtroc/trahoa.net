@@ -18,6 +18,7 @@ author: Phạm Thoa
 ---
 
 Gan đảm nhận nhiều chức năng quan trọng của cơ thể, do vậy việc làm sạch gan là vô cùng cần thiết, nhằm đảm bảo gan hoạt động tốt.
+
 Trong cuộc sống hàng ngày có rất nhiều thực phẩm có tác dụng giải độc cho gan, từ đó giúp tăng cường chức năng hoạt động của gan mà chúng ta không nên bỏ qua.
 
 ## Những thực phẩm giải độc gan tốt nhất
