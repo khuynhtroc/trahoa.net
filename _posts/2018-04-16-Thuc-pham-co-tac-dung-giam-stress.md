@@ -6,6 +6,7 @@ meta-title: "10 loại thực phẩm hàng ngày làm giảm stress căng thẳn
 description: ""
 meta-description: ""
 meta-keywords: "Phương pháp giảm stress,trà hoa bình chi, uống trà hoa bình chi"
+tags: tra-hoa-binh-chi giai-doc-gan giảm-stress giảm-căng-thẳng thực-phẩm-giảm-stress
 categories: tin-tuc phuong-phap-dieu-tri
 category: phuong-phap-dieu-tri 
 permalink: "/thuc-pham-co-tac-dung-giam-stress.html"
