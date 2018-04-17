@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "10 loại thực phẩm "thổi bay" stress"
-h1-title: "10 loại thực phẩm "thổi bay" stress"
-meta-title: "Thực phẩm bổ sung hàng ngày làm giảm stress căng thẳng"
+title: "10 loại thực phẩm thổi bay stress"
+h1-title: "10 loại thực phẩm thổi bay stress"
+meta-title: "10 loại thực phẩm hàng ngày làm giảm stress căng thẳng"
 description: ""
 meta-description: ""
 meta-keywords: "Phương pháp giảm stress,trà hoa bình chi, uống trà hoa bình chi"
