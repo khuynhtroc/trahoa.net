@@ -20,7 +20,8 @@ author: Phạm Thoa
 Hầu hết chúng ta sống trong một thế giới bận rộn nơi căng thẳng gần như không thể tránh khỏi. Một chút căng thẳng có thể tốt cho bạn, những khi thường xuyên cảm thấy căng thẳng, choáng ngợp và lo lắng, nó có thể gây thiệt hại rất lớn cho sức khỏe của bạn, công việc của bạn, tâm trạng của bạn, và thậm chí cả các mối quan hệ của bạn.
  
 Căng thẳng quá nhiều hoặc kéo dài có thể dẫn đến các vấn đề về thể chất ngắn hạn và dài hạn, chẳng hạn như huyết áp cao, suy giảm trí nhớ, loãng xương, bệnh tim mạch và hệ miễn dịch yếu.
- 
+
+## 10 loại thực phẩm hàng ngày làm giảm stress căng thẳng
  
 Ăn các loại thực phẩm chống căng thẳng, tập thể dục một cách thường xuyên và luyện tập yoga có thể giúp bạn giảm mức độ căng thẳng và cải thiện tâm trạng của bạn mà không cần bất cứ loại thuốc nào. Khám phá các loại thực phẩm tốt nhất dưới đây có thể giúp chúng ta chống lại sự căng thẳng và sống một cuộc sống yên bình hơn.
 
