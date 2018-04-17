@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 loại thực phẩm thổi bay stress"
+title: "10 loại thực phẩm thổi bay stress làm giảm căng thẳng"
 h1-title: "10 loại thực phẩm thổi bay stress"
 meta-title: "10 loại thực phẩm hàng ngày làm giảm stress căng thẳng"
 description: ""
