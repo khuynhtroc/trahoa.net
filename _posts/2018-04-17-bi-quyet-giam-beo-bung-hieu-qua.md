@@ -14,10 +14,12 @@ published: true
 sitemap: true
 image: "https://i.imgur.com/M1ygJSq.jpg"
 date: 2018-04-17 16:00:00
-author:Phạm Thoa
+author: Phạm Thoa
 ---
 
 Ngồi một chỗ là nguyên nhân chính dễ gây nên béo bụng cho các chị em dân công sở. Có những phương pháp phổ biến như ăn kiêng tập bụng nhưng các phương pháp này dường như rất tốn thời gian đối với chị em công sở chúng ta. Để tránh được tình trạng này chị em nên thực hiện một số phương pháp dưới đây.
+
+## 5 bí quyết giảm béo bụng cho chị em công sở
 
 ### 1. Chú ý tư thế ngồi
 
