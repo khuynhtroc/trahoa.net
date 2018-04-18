@@ -9,7 +9,7 @@ meta-keywords: "tác hại với da khi ngồi máy tính thường xuyên, trà
 categories: tin-tuc phuong-phap-dieu-tri
 category: phuong-phap-dieu-tri
 tags:  tra-hoa-binh-chi tác-hại-với-da-khi-ngồi-máy-tính-thường-xuyên bảo-vệ-da
-permalink: "/cach-khac-phuc-tac-haị-voi-da-khi-ngoi-may-tinh-thuong-xuyen.html"
+permalink: "/tac-hai-voi-da-khi-ngoi-may-tinh-thuong-xuyen.html"
 published: true
 sitemap: true
 image: "https://i.imgur.com/iNS6cAY.jpg"
