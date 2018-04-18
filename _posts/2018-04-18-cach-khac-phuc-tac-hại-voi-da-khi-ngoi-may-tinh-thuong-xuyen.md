@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "tác hại với da khi ngồi máy tính thường xuyên và cách khắc phục"
-h1-title: "tác hại với da khi ngồi máy tính thường xuyên và cách khắc phục"
-meta-title: "tác hại với da khi ngồi máy tính thường xuyên và cách khắc phục"
+title: "Tác hại với da khi ngồi máy tính thường xuyên và cách khắc phục"
+h1-title: "Tác hại với da khi ngồi máy tính thường xuyên và cách khắc phục"
+meta-title: "Tác hại với da khi ngồi máy tính thường xuyên và cách khắc phục"
 description: ""
 meta-description: ""
 meta-keywords: "tác hại với da khi ngồi máy tính thường xuyên, trà hoa bình chi, uống trà hoa bình chi"
@@ -19,17 +19,23 @@ author: Phạm Thoa
 
 Các tia bức xạ từ máy tính cực hại cho làn da. Nếu bạn là người thường xuyên sử dụng máy tính thì phải áp dụng ngay những biện pháp sau để bảo vệ làn da tốt hơn bạn nhé.
 
-### I. Ngồi máy tính thường xuyên gây hại gì cho làn da?
+## I. Ngồi máy tính thường xuyên gây hại gì cho làn da?
 
 <img src="https://i.imgur.com/huVCaoz.jpg" alt="trà hoa bình chi" class="responsive-img lazy">
 
-### 1. Gây mụn dưới da: Lượng điện tích sản sinh ra từ máy tính có tác dụng như chất xúc tác khiến da hấp thụ bụi bẩn nhiều hơn. Hơn nữa, lượng nhiệt lớn do máy tính phát ra sẽ làm nóng da khiến cho các lỗ chân lông càng nở to, bụi bặm cùng các bã nhờn dễ bám sâu vào da hơn, lâu dài khiến da phát sinh nhiều loại mụn nhất là mụn dưới da khó trị.
+### 1. Gây mụn dưới da
+
+Lượng điện tích sản sinh ra từ máy tính có tác dụng như chất xúc tác khiến da hấp thụ bụi bẩn nhiều hơn. Hơn nữa, lượng nhiệt lớn do máy tính phát ra sẽ làm nóng da khiến cho các lỗ chân lông càng nở to, bụi bặm cùng các bã nhờn dễ bám sâu vào da hơn, lâu dài khiến da phát sinh nhiều loại mụn nhất là mụn dưới da khó trị.
  
-### 2. Gây khô và sạm da: Nếu thường xuyên ngồi trước máy tính, da bạn sẽ dần  khô ráp, sần sùi và trở nên thiếu sức sống. Đặc biệt, phần da ở những vùng tiếp xúc nhiều với máy tính như mặt, cổ, tay sẽ trở nên xuống tông và tối màu hơn những vùng khác rõ rệt. Đó chính là lý do nếu sử dụng máy tính thường xuyên bạn khó lòng sở hữu làn da trắng hồng, mượt mà và tràn đầy sức sống.
+### 2. Gây khô và sạm da
 
-### 3. Lão hóa da nhanh chóng: Bức xạ máy tính khiến tế bào chết trên da được sản sinh ra nhiều hơn, da bạn sẽ nhanh sần sùi, xỉn màu và không còn láng mịn. Hơn nữa, bức xạ này còn làm hư tổn cấu trúc collagen tận sâu bên trong da nên cấu trúc da cũng sẽ không còn vững chắc như trước mà da bạn sẽ nhanh chóng bị chảy xệ và xuất hiện nhiều nếp nhăn.
+Nếu thường xuyên ngồi trước máy tính, da bạn sẽ dần  khô ráp, sần sùi và trở nên thiếu sức sống. Đặc biệt, phần da ở những vùng tiếp xúc nhiều với máy tính như mặt, cổ, tay sẽ trở nên xuống tông và tối màu hơn những vùng khác rõ rệt. Đó chính là lý do nếu sử dụng máy tính thường xuyên bạn khó lòng sở hữu làn da trắng hồng, mượt mà và tràn đầy sức sống.
 
-### II. Bảo vệ da đúng cách khi dùng máy tính
+### 3. Lão hóa da nhanh chóng
+
+Bức xạ máy tính khiến tế bào chết trên da được sản sinh ra nhiều hơn, da bạn sẽ nhanh sần sùi, xỉn màu và không còn láng mịn. Hơn nữa, bức xạ này còn làm hư tổn cấu trúc collagen tận sâu bên trong da nên cấu trúc da cũng sẽ không còn vững chắc như trước mà da bạn sẽ nhanh chóng bị chảy xệ và xuất hiện nhiều nếp nhăn.
+
+## II. Bảo vệ da đúng cách khi dùng máy tính
 
 Do những tác động trên nên những người sử dụng máy tính lâu dài mà không có biện pháp ngăn chặn tia bức xạ thường có xu hướng nhanh lão hóa và già hơn trước tuổi rất nhiều. Do đó, ngay từ bây giờ bạn nên áp dụng ngay những biện pháp sau để hạn chế tối đa ảnh hưởng của máy tính đến nhan sắc về sau bạn nhé.
 
@@ -56,6 +62,7 @@ Bạn cũng nên chú ý giữ khoảng cách an toàn với màn hình trong kh
 <img src="https://i.imgur.com/9gNYnux.jpg" alt="trà hoa bình chi" class="responsive-img lazy"> 
 
 Các đồ uống như trà xanh, chanh mật ong, trà hoa Bình Chi, nước ép cà chua... là những thức uống chứa nhiều vitamin A, C cùng chất chống lão hóa cực cao nên sẽ giúp làn da kháng lại các tia xạ có hại từ máy tính một cách hiệu quả đồng thời còn có tác dụng lớn trong việc cung cấp dưỡng chất cho da, chống lão hóa da cho bạn làn rạng ngời và tươi trẻ.
+
 Hãy thực hiện những giải pháp đơn giản mà hữu hiệu trên ngay hôm nay để có thể bảo vệ làn da quý giá của mình một cách tuyệt đối khỏi tác hại của máy tính bạn nhé.
 
  
