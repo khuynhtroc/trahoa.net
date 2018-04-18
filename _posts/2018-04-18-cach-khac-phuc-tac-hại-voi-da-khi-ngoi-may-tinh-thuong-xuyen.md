@@ -8,7 +8,7 @@ meta-description: ""
 meta-keywords: "tác hại với da khi ngồi máy tính thường xuyên, trà hoa bình chi, uống trà hoa bình chi"
 categories: tin-tuc phuong-phap-dieu-tri
 category: phuong-phap-dieu-tri
-tags:  tra-hoa-binh-chi tác-hại-với-da-khi-ngồi-máy-tính-thường-xuyên bảo-vệ-da
+tags:  tra-hoa-binh-chi tác-hại-với-da ngồi-máy-tính-thường-xuyên bảo-vệ-da
 permalink: "/tac-hai-voi-da-khi-ngoi-may-tinh-thuong-xuyen.html"
 published: true
 sitemap: true
