@@ -26,7 +26,9 @@ Rôm sảy nhiều khiến trẻ con hay cả người lớn chúng ta bức b�
 <img src="https://i.imgur.com/l0dIPeV.jpg" alt="trà hoa bình chi" class="img-responsive lazy">
 
 Mướp đắng có vị đắng, tính mát, có công dụng thanh nhiệt, giải độc, làm đẹp da nên không chỉ là thực phẩm tự nhiên trị rôm sảy an toàn cho bé mà người lớn cũng có thể sử dụng được.
+
 Cách dùng mướp đắng như sau: Chọn 3 quả mướp đắng vừa phải, nghiền nát, vắt lấy nước cốt, bôi lên vùng da có rôm sảy trước khi đi tắm khoảng 10 phút. Sau đó tắm lại bằng nước sạch. Một cách khác có thể áp dụng là nấu một nồi nước mướp đắng để tắm trực tiếp.
+
 Mướp đắng giúp làm mát da và có công dụng sát khuẩn nên sẽ khiến rôm sảy nhanh chóng lặn hết. Nếu bạn bị nhẹ và mới thì có thể trong lần tắm đầu tiên đã thấy rõ hiệu quả lặn rôm sảy. Hầu hết các trường hợp, nốt rôm sảy sẽ biến mất sau 4-5 ngày tắm nước mướp đắng.
 
 ### 2. Tắm nước cây sài đất

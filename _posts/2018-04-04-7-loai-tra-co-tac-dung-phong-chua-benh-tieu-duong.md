@@ -18,9 +18,13 @@ author: Ngọc Thanh
 ---
 
 Người bị bệnh tiểu đường thường phải kiêng khem nhiều thứ trong ăn uống. Nhưng một số trà thảo dược lại được coi là tốt cho bệnh nhân tiểu đường.
+
+Xem thêm: "**[6 loại trà có tác dụng chữa bệnh rất tốt](https://trahoa.net/tra-phong-benh-ung-thu.html)**
+
 Tiểu đường là một trong những căn bệnh nguy hiểm, đe dọa sức khỏe của người dân trên toàn thế giới. Gần 50% dân số thế giới, hoặc là đang bị bệnh hoặc có nguy cơ bị bệnh tiểu đường. Đây là một trong những “kẻ giết người” thầm lặng vì nó không những ảnh hưởng mạnh cả về thể chất lẫn tinh thần của người bệnh mà còn không có thuốc chữa khỏi hẳn. Phương pháp điều trị duy nhất dành cho bệnh tiểu đường là kiểm soát lượng đường trong máu ở ngưỡng ổn định.
 
 Người bị bệnh tiểu đường thường phải kiêng khem nhiều thứ trong ăn uống, sinh hoạt, thậm chí còn phải từ bỏ những thức ăn, đồ uống mình ưa thích.
+
 Nhưng bạn có biết rằng, có một số trà thảo dược lại được coi là tốt cho bệnh nhân tiểu đường. Và dưới đây là 7 loại trà mà người bị bệnh tiểu đường có thể uống được.
 
 ## 1. Trà việt quất
@@ -63,6 +67,6 @@ Trà từ cây xô thơm là có khả năng tăng cường hoạt động của
 
 <img  src="https://i.imgur.com/QpWtow1.jpg" alt="lợi ích của trà hoa" class="image_fade responsive-img lazy" border="2">
 
-**Trà hoa Bình Chi** có chứa bồ công anh châu Âu và nấm Chaga giúp ngăn ngừa các biến chứng của bệnh tiểu đường trong tương lai. Đồng thời cũng giúp ức chế hoạt động và hỗ trợ giảm dần đường huyết về mức ổn định.
+**Trà hoa Bình Chi** có chứa bồ công anh châu Âu và nấm Chaga giúp ngăn ngừa các biến chứng của bệnh tiểu đường trong tương lai. Đồng thời cũng giúp ức chế hoạt động và hỗ trợ giảm dần đường huyết về mức ổn định. Ngoài ra còn có tác dụng giải độc gan rất tốt: **[Xem chi tiết](https://trahoa.net/thuc-pham-co-tac-dung-giai-doc-gan-rat-hieu-qua.html)**
 
 Tuy nhiên, nếu đang bị bệnh, bạn cũng nên tham khảo ý kiến của bác sĩ trước khi dùng bất cứ loại thảo mộc nào, kể cả trà thảo mộc vì một số sản phẩm có thể can thiệp đến các loại thuốc bạn đang sử dụng hoặc có chứa một số thành phần mà bạn quá mẫn cảm.

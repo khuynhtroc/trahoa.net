@@ -59,7 +59,7 @@ Trà hoa cúc có chứa apigenin - một chất flavonoid và có hiệu quả 
 
 Không chỉ không chứa caffeine mà hồng trà còn chứa nhiều flavonoid, rooibos - các chất chống oxy hóa có đặc tính kháng viêm tốt. Theo Tiến sĩ Nabeel Ghayur, một nghiên cứu sinh tại Đại học McMaster ở Hamilton, người đồng tác giả của một bài nghiên cứu năm 2006 về những lợi ích sức khỏe của rooibos thì tác dụng chống viêm này có thể giúp giảm các rắc rối liên quan đến tiêu hóa.
 
-"Flavonoids và rooibos đóng góp vào sự thư giãn của cơ bắp ruột và các mô ruột nên có thể chống lại những ảnh hưởng không tốt đến dạ dày và sự tiêu hóa", Tiến sĩ Nabeel Ghayur nói. 
+"Flavonoids và rooibos đóng góp vào sự thư giãn của cơ bắp ruột và các mô ruột nên có thể chống lại những ảnh hưởng không tốt đến dạ dày và sự tiêu hóa" - Tiến sĩ Nabeel Ghayur nói. 
 
 ## Nếu bạn bị cao huyết áp: Hãy uống trà hoa dâm bụt
 
