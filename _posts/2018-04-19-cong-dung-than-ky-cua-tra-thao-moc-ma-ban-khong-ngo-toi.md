@@ -2,8 +2,8 @@
 layout: post
 title: "Công dụng thần kỳ của trà thảo mộc mà bạn không ngờ tới"
 h1-title: "Công dụng thần kỳ của trà thảo mộc mà bạn không ngờ tới"
-description: ""
 meta-title: "Trà thảo mộc và những công dụng thần kỳ mà nó đem lại"
+description: ""
 meta-description: ""
 meta-keywords: "trà hoa, trà hoa Bình Chi, trà thảo mộc, thà thảo dược"
 categories: song-khoe-moi-ngay tin-tuc
@@ -17,7 +17,9 @@ date: 2018-04-19 16:50:00
 author: Ngọc Thanh
 ---
 
-Cuộc sống hiện đại đem đến cho con người nhiều sự thay đổi nhưng cũng vì thế mà lấy đi rất nhiều thứ: thực phẩm bẩn, ô nhiễm chất thải, ô nhiễm không khí gia tăng khiến cho sức khỏe cũng như chất lượng cuộc sống giảm sút. Con người ta ngày càng tìm về với thiên nhiên, với nguồn dinh dưỡng và thảo dược tinh khiết an toàn cho sức khỏe, cung cấp dưỡng chất cần thiết. Và trà thảo mộc cũng là một trong số những thực phẩm đầy dưỡng chất như thế mà thiên nhiên đã ban tặng cho chúng ta.
+Cuộc sống hiện đại đem đến cho con người nhiều sự thay đổi nhưng cũng vì thế mà lấy đi rất nhiều thứ: thực phẩm bẩn, ô nhiễm chất thải, ô nhiễm không khí gia tăng khiến cho sức khỏe cũng như chất lượng cuộc sống giảm sút.
+
+Con người ta ngày càng tìm về với thiên nhiên, với nguồn dinh dưỡng và thảo dược tinh khiết an toàn cho sức khỏe, cung cấp dưỡng chất cần thiết. Và trà thảo mộc cũng là một trong số những thực phẩm đầy dưỡng chất như thế mà thiên nhiên đã ban tặng cho chúng ta.
 
 ## TRÀ THẢO MỘC LÀ GÌ?
 
@@ -39,7 +41,7 @@ Tuy được gọi là "trà" nhưng kỳ thực trà thảo mộc không phải
 
 ## MỘT SỐ TÁC DỤNG CHUNG CỦA TRÀ THẢO MỘC ĐEM TỚI CHO CON NGƯỜI:
 
-## 1. Trà thảo mộc giúp tăng cường quá trình trao đổi chất
+### 1. Trà thảo mộc giúp tăng cường quá trình trao đổi chất
 
 <img  src="https://i.imgur.com/krHHjua.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
@@ -47,13 +49,13 @@ Tuy được gọi là "trà" nhưng kỳ thực trà thảo mộc không phải
 
 - Nếu dùng thường xuyên trong 1 năm bạn có thể nhận thấy kết quả thật sự khác biệt về chỉ số cân nặng của mình đấy.
 
-## 2. Trà thảo mộc giúp chống oxi hóa.
+### 2. Trà thảo mộc giúp chống oxi hóa
 
 <img  src="https://i.imgur.com/rRsiR3y.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
 - Khi môi trường sống hiện nay ngày càng ô nhiễm thì cơ thể bạn sẽ bị tàn phá nhiều hơn đặc biệt là người già. Những tinh chất tuyệt vời có trong trà sẽ như là một lớp sơn bảo vệ cho những đồ đạc, giúp ngăn chăn quá trình oxy hóa, qua đó ngăn ngừa quá trình lão hóa.
 
-## 3. Trà thảo mộc không chứa calo.
+### 3. Trà thảo mộc không chứa calo
 
 <img  src="https://i.imgur.com/NcsLJ8f.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
@@ -63,19 +65,19 @@ Tuy được gọi là "trà" nhưng kỳ thực trà thảo mộc không phải
 
 - Bạn có thể giảm 0,5kg mỗi tuần nếu uống trà đều đặn hàng ngày.
 
-## 4. Caffein trong trà thảo mộc có ít hơn trong cà phê.
+### 4. Caffein trong trà thảo mộc có ít hơn trong cà phê
 
 <img  src="https://i.imgur.com/bzBvE2z.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
 Trong khi trà chỉ chứa 30 – 40 mg mỗi tách thì một tách cà phê chứa khoảng 135 mg caffeine. Bên cạnh đó khi uống cà phê bạn sẽ có cảm giác đau đầu, bồn chồn, khó tiêu hay khó ngủ thì hãy đổi sang uống trà có nguồn gốc thảo mộc.
 
-## 5. Trà thảo dược phòng chống bệnh ung thư.
+### 5. Trà thảo dược phòng chống bệnh ung thư
 
 - Trong khi người ta vẫn còn nghiên cứu tổng thể chưa đưa ra kết luận thì có đủ những nghiên cứu cho thấy những hiệu quả tiềm năng của việc uống trà khiến chúng ta cần đưa trà vào danh sách những thức uống cần uống hàng ngày của chúng ta.
 
 - Ngoài EGCG, trong quá trình nghiên cứu một chất chống oxi hóa cũng đã được tìm thấy trong trà (polyphenol) cho thấy trà có thể chống bệnh ung thư.
 
-## 6. Uống trà thảo mộc chữa bệnh.
+### 6. Uống trà thảo mộc chữa bệnh
 
 <img  src="https://i.imgur.com/hYmgcgd.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
@@ -87,7 +89,7 @@ Trong khi trà chỉ chứa 30 – 40 mg mỗi tách thì một tách cà phê c
 
 - Những đốm đỏ không mong muốn hình thành do cholesterol và tiểu huyết cầu có thể gây ra đau tim và đột quỵ. Trà thảo mộc sẽ giúp bạn loại bỏ lo lắng đó.
 
-## 7. Trà thảo dược cho bạn một hàm răng chắc khòe và nụ cười ngọt ngào.
+### 7. Trà thảo dược cho bạn một hàm răng chắc khòe và nụ cười ngọt ngào
 
 <img  src="https://i.imgur.com/G96rc5H.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
@@ -95,7 +97,7 @@ Trong khi trà chỉ chứa 30 – 40 mg mỗi tách thì một tách cà phê c
 
 - Còn thật ra khi uống trà không đường bạn sẽ có hàm răng chắc khỏe do trong trà có chứa tanin và fluoride có thể làm răng sát lại gần nhau.
 
-## 8. Uống trà mộc giúp cơ thể bổ sung đủ lượng nước cần thiết hàng ngày.
+### 8. Uống trà mộc giúp cơ thể bổ sung đủ lượng nước cần thiết hàng ngày
 
 <img  src="https://i.imgur.com/knYUFeW.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
@@ -105,15 +107,16 @@ Trong khi trà chỉ chứa 30 – 40 mg mỗi tách thì một tách cà phê c
 
 - Nhưng bạn cũng đừng nên uống quá 5 tách thức uống có caffeine cùng một lúc.
 
-## 9. Trà thảo dược bảo vệ hệ miễn dịch.
+### 9. Trà thảo dược bảo vệ hệ miễn dịch
 
 - Một cuộc thử nghiệm trên 21 người tình nguyện uống 5 tách trà mỗi ngày trong 4 tuần, người ta nhận thấy rằng hoạt động của hệ miễn dịch trong máu của người uống trà cao hơn.
 
-## 10. Trà thảo dược giúp cứng xương.
+### 10. Trà thảo dược giúp cứng xương
 
 <img  src="https://i.imgur.com/jSmxhuL.jpg" alt="lợi ích của trà thảo mộc" class="image_fade responsive-img lazy">
 
-- Xương vững chắc không chỉ nhờ sữa cho thêm vào trà. Một nghiên cứu so sánh người không uống trà và người uống trà, nhận thấy người uống trà hơn 10 năm có xương vững chắc nhất, thậm chí sau khi cân bằng cân nặng, tuổi tác, tập luyện, hút thuốc và những tác nhân nguy hiểm khác.01
+- Xương vững chắc không chỉ nhờ sữa cho thêm vào trà. Một nghiên cứu so sánh người không uống trà và người uống trà, nhận thấy người uống trà hơn 10 năm có xương vững chắc nhất, thậm chí sau khi cân bằng cân nặng, tuổi tác, tập luyện, hút thuốc và những tác nhân nguy hiểm khác.
+
 - Với 10 lợi ích của trà thảo mộc như trên, các bạn nên uống trà thảo dược mỗi ngày để tăng cường sức khỏe cho mình nhé. 
 
 Ngoài ra, để có thể hấp thu tất cả các lợi ích từ trà thảo mộc, bạn phải điều chỉnh và nắm được chính xác lượng thời gian cần thiết mà trà cần được ngâm trong nước. Có nhiều loại trà thảo mộc cần từ 10 đến 15 phút để thật sự "cho ra" tất cả các chất dinh dưỡng có trong chúng.
