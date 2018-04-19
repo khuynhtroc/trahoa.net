@@ -13,7 +13,7 @@ permalink: "/cong-dung-cua-tra-thao-moc.html"
 published: true
 sitemap: true
 image: "https://i.imgur.com/YjaumWV.jpg"
-date: 2018-04-019 16:50:00
+date: 2018-04-19 16:50:00
 author: Ngọc Thanh
 ---
 
@@ -115,4 +115,7 @@ Trong khi trà chỉ chứa 30 – 40 mg mỗi tách thì một tách cà phê c
 
 - Xương vững chắc không chỉ nhờ sữa cho thêm vào trà. Một nghiên cứu so sánh người không uống trà và người uống trà, nhận thấy người uống trà hơn 10 năm có xương vững chắc nhất, thậm chí sau khi cân bằng cân nặng, tuổi tác, tập luyện, hút thuốc và những tác nhân nguy hiểm khác.01
 - Với 10 lợi ích của trà thảo mộc như trên, các bạn nên uống trà thảo dược mỗi ngày để tăng cường sức khỏe cho mình nhé. 
-Đừng quên trải nghiệm hương vị của trà hoa Bình Chi, với những tác dụng tuyệt vời cho cơ thể của bạn.
+
+Ngoài ra, để có thể hấp thu tất cả các lợi ích từ trà thảo mộc, bạn phải điều chỉnh và nắm được chính xác lượng thời gian cần thiết mà trà cần được ngâm trong nước. Có nhiều loại trà thảo mộc cần từ 10 đến 15 phút để thật sự "cho ra" tất cả các chất dinh dưỡng có trong chúng.
+
+Các nhà nghiên cứu thường nói rằng trà thảo mộc có thể biến đổi cả con người bạn - từ tinh thần, làn da đến sức khoẻ. Bởi vậy đừng quên trải nghiệm hương vị của các loại trà thảo mộc.
