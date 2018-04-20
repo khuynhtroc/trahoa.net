@@ -20,6 +20,7 @@ author: Phạm Thoa
 Không mùa nào mà lượng hoa quả lại dồi dào và đa dạng như mùa hè, trong đó có rất nhiều loại rau quả có chất chống oxy hóa, có tác dụng phòng chống bệnh tật như bệnh ung thư.
 
 Nhiều người cho rằng mùa hè thường có rất nhiều loại rau, hoa quả có tính nóng, ăn nhiều dễ lên mụn nhọt. Nhưng đây cũng là mùa lượng rau quả phong phú, dồi dào, nhất là ở các nước phương Tây nơi chỉ có vài tháng mùa hè.
+
 Theo các chuyên gia dinh dưỡng, rau quả càng có nhiều màu sắc, càng có tác dụng phòng chống bệnh tật, dưới đây là một số loại rau quả mùa hè các chuyên gia dinh dưỡng khuyên chúng ta không nên bỏ qua.
 
 ## 1. Cà chua
@@ -74,7 +75,9 @@ Cũng giống như dâu tây, dưa chuột chứa hàm lượng fisetin có tác
 Nho là một trong những loại trái cây đứng đầu về hàm lượng chất chống lão hóa, giúp ngăn ngừa ung thư và giảm nguy cơ mắc các bệnh liên quan đến tuổi tác.
 
 Đó là do chất resveratrol trong nho giúp giảm cân, ngăn chặn sự tăng trưởng của những tế bào bất thường, đây là một trong những nguyên nhân dẫn tới nhiều loại ung thư trong đó có ung thư vú.
+
 Một nghiên cứu khác đã chỉ ra, nho còn có khả năng kích hoạt sự tự tiêu hủy của tế bào gây ung thư gan, đây là loại ung thư có tỷ lệ người mắc cũng như tử vong cao, nhất là ở những quốc gia đang phát triển.
+
 Các nhà khoa học cho công bố nghiên cứu trên chuột cho thấy nho giúp giảm hơn 85 % nguy cơ gây ung thư tuyến tiền liệt.
 
 Những con chuột được ăn một chế độ ăn uống giàu resveratrol có tỷ lệ mắc ung thư tuyến tiền liệt không đáng kể.
