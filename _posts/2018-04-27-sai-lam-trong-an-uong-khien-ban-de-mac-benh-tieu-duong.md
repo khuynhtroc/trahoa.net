@@ -13,7 +13,7 @@ permalink: "/sai-lam-trong-an-uong-khien-ban-de-mac-benh-tieu-duong.html"
 published: true
 sitemap: true
 image: "https://i.imgur.com/jxRulgS.jpg"
-date: 2017-04-27 16:50:00
+date: 2018-04-27 16:50:00
 author: Phạm Thoa
 ---
 
