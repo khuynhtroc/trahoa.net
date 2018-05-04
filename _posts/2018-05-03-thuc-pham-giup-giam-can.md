@@ -17,8 +17,10 @@ date: 2018-05-03 17:30:00
 author: Phạm Thoa
 ---
 
-Béo phì vừa khiến chúng ta mất tự tin về hình thể vừa gây nhiều hậu quả xấu đến sức khỏe. Giảm cân sẽ giúp tăng chất lượng cuộc sống và tuổi thọ
+Béo phì vừa khiến chúng ta mất tự tin về hình thể vừa gây nhiều hậu quả xấu đến sức khỏe. Giảm cân sẽ giúp tăng chất lượng cuộc sống và tuổi thọ.
+
 Muốn giảm cân thành công luôn cần thực hành đồng bộ các giải pháp: Ăn chế độ thấp năng lượng nhưng vẫn cân đối và đầy đủ các nhóm chất dinh dưỡng, vận động thể lực hàng ngày.
+
 Mười thực phẩm sau sẽ giúp bạn thực hiện chế độ ăn giảm cân dễ dàng hơn:
 
 ## 1. Bông cải xanh
