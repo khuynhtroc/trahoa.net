@@ -12,7 +12,7 @@ tags: trà-hoa trà-hoa-Bình-Chi
 permalink: "/10-do-uong-mat-lanh-giai-nhiet.html"
 published: true
 sitemap: true
-image: "https://i.imgur.com/3o2xGqF.jpg"
+image: "https://i.imgur.com/O4DCS45.jpg"
 date: 2018-05-07 11:05:00
 author: Ngọc Thanh
 ---
