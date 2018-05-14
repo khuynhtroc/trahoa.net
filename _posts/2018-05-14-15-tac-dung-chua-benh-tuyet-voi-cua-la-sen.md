@@ -12,7 +12,7 @@ tags: trà-hoa trà-hoa-Bình-Chi béo-phì tim-mạch tiêu-hóa ung-thư bện
 permalink: "/tac-dung-cua-la-sen.html"
 published: true
 sitemap: true
-image: "https://i.imgur.com/lwOr8Hi.jpg"
+image: "https://i.imgur.com/wIjgD4G.jpg"
 date: 2018-05-14 12:56:00
 author: Ngọc Thanh
 ---
