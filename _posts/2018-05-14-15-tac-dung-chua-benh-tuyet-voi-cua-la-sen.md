@@ -35,7 +35,9 @@ Lá sen, hoa hòe (mỗi vị 10g), cúc hoa vàng 4g, sắc uống chữa cao h
 
 Lá sen 2 tàu, rửa sạch, sắc lấy nước, cho 50 – 100g gạo, thêm chút đường phèn, nấu cháo ăn.
 
-## 3. Tác dụng Lợi thủy tiêu mỡ, giảm thiểu sự ngưng tập tiểu cầu, cải thiện tuần hoàn máu, sử dụng thường xuyên có khả năng phòng ngừa tăng huyết áp và tai biến mạch máu não. Rất thích hợp với người cao tuổi.
+## 3. Tác dụng Lợi thủy tiêu mỡ
+
+Giảm thiểu sự ngưng tập tiểu cầu, cải thiện tuần hoàn máu, sử dụng thường xuyên có khả năng phòng ngừa tăng huyết áp và tai biến mạch máu não. Rất thích hợp với người cao tuổi.
 
 ## 4. Tác dụng lá sen Phòng chống [béo phì](https://trahoa.net/tac-dung-cua-la-sen.html)
 
@@ -49,7 +51,7 @@ Lá sen tươi (hoặc có thể dùng lá sen khô, nhưng trước khi dùng p
 
 Lá sen non (loại lá còn cuộn lại chưa mở càng tốt) rửa sạch, thái nhỏ, ép lấy nước uống làm nhiều lần trong ngày. Hoặc thái nhỏ, trộn với các loại rau ghém, ăn sống hằng ngày. Người bị tiêu chảy vừa chữa khỏi, cơ thể đang bị thiếu nước dùng rất tốt.
 
-## 6. Tác dụng giải nhiệt mùa hè
+## 6. Tác dụng [giải nhiệt](https://trahoa.net/tac-dung-cua-la-sen.html) mùa hè
 
 Giải thử (trừ nóng mùa hè), thanh phế (mát phổi). Dùng trong trường hợp sau khi bị cảm nắng đã chữa khỏi, nhưng vẫn còn đau đầu, ho khan, mắt hoa nhìn không rõ.
 
