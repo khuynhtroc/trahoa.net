@@ -37,7 +37,7 @@ Lá sen 2 tàu, rửa sạch, sắc lấy nước, cho 50 – 100g gạo, thêm 
 
 ## 3. Tác dụng Lợi thủy tiêu mỡ, giảm thiểu sự ngưng tập tiểu cầu, cải thiện tuần hoàn máu, sử dụng thường xuyên có khả năng phòng ngừa tăng huyết áp và tai biến mạch máu não. Rất thích hợp với người cao tuổi.
 
-## 4. Tác dụng lá sen Phòng chống béo phì
+## 4. Tác dụng lá sen Phòng chống [béo phì](https://trahoa.net/tac-dung-cua-la-sen.html)
 
 <img  src="https://i.imgur.com/a5ltIxf.jpg" alt="tác dụng của lá sen" class="image_fade responsive-img lazy" border="2">
 
@@ -85,7 +85,7 @@ Lá sen 40g để sống, rau má 12g sao vàng, thái nhỏ, sắc với 400 ml
 
 ## 13. Lá sen có công dụng hỗ trợ Chữa ho ra máu, nôn ra máu
 
-Lá sen, ngó sen, sinh địa (mỗi vị 30g), trắc bá, ngải cứu (mỗi vị 20g). Tất cả thái nhỏ, phơi khô, sắc uống trong ngày.
+[Lá sen](https://trahoa.net/tac-dung-cua-la-sen.html), ngó sen, sinh địa (mỗi vị 30g), trắc bá, ngải cứu (mỗi vị 20g). Tất cả thái nhỏ, phơi khô, sắc uống trong ngày.
 
 ## 14. Tác dụng lá sen Đắp nhọt
 
