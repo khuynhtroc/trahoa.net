@@ -14,7 +14,8 @@ published: true
 sitemap: true
 image: "https://i.imgur.com/jTF95fY.jpg"
 date: 2018-05-08 17:00:00
-author: Phạm Thoa 
+author: Phạm Thoa
+---
 
 Thời tiết nắng nóng mùa hè là tác nhân khiến rất nhiều người đổ bệnh, đặc biệt là người già, trẻ nhỏ và những người thường xuyên làm việc dưới nắng nóng…
 
@@ -32,7 +33,7 @@ Hiện tượng này thường hay gặp ở những người làm việc ở m�
 
 Biểu hiện của người say nắng, say nóng thường là mệt mỏi, hoa mắt chóng mặt, nhức đầu, tăng nhịp thở, hồi hộp trống ngực rồi đến trạng thái mệt mỏi, hoa mắt, chóng mặt, nhức đầu, tay chân rã rời, kích thích nhẹ, khó thở tăng dần, chuột rút... Tình trạng say nắng nếu không được cấp cứu kịp thời còn có thể dẫn đến đột quỵ, ngất, hôn mê, trụy tim mạch, kéo theo các di chứng thần kinh không hồi phục và tử vong.
 
-## 2.	Đột quỵ 
+## 2. Đột quỵ 
 
 Đột quị do nắng nóng mùa hè là bệnh chúng ta cũng hay gặp trong mùa hè, khi tình trạng thân nhiệt trung tâm cao trên 40 độ C, do cơ thể tiếp xúc kéo dài với môi trường có nhiệt độ cao như ở ngoài trời nắng nóng hoặc phải làm việc trong các lò gốm sứ, lò rèn, lò luyện kim... với điều kiện độ ẩm không khí cao, không thông thoáng… Những người làm trong môi trường này kéo dài có thể dẫn đến da nóng, khô kèm theo các rối loạn về thần kinh trung ương như run cơ, co giật và thậm chí có thể hôn mê. 
 
@@ -46,7 +47,7 @@ Ngoài ra khi thời tiết nóng, ruồi nhặng và vi khuẩn dễ sinh sôi 
 
 Trong mùa nắng, ruồi, muỗi, chuột, gián cũng phát triển nhiều hơn nên dễ làm lây lan các mầm bệnh qua thực phẩm và nước uống. Vì vậy chúng ta rất có thể mắc các bệnh về đường ruột, ngộ độc thực phẩm bởi do E.coli, thương hàn, lỵ, đặc biệt nguy hiểm là vi khuẩn tả hoặc bệnh liên cầu lợn hoặc tụ cầu vàng…
 
- Triệu chứng điển hình của ngộ độc thực phẩm là đau bụng, buồn nôn, nôn, tiêu chảy cấp, nếu không cấp cứu kịp thời có thể trụy tim mạch, tử vong. 
+Triệu chứng điển hình của ngộ độc thực phẩm là đau bụng, buồn nôn, nôn, tiêu chảy cấp, nếu không cấp cứu kịp thời có thể trụy tim mạch, tử vong. 
 
 
 Để hạn chế mắc các bệnh về mùa hè cần lưu ý:

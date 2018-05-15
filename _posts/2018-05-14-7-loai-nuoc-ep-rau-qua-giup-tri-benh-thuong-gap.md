@@ -17,7 +17,6 @@ date: 2018-05-14 16:00:00
 author: Phạm Thoa
 ---
 
-Uống nước ép rau quả cũng là một cách để tận dụng tất cả các chất dinh 
 Ngoài hương vị thơm ngon, nước ép rau quả thường mang lại rất nhiều lợi ích cho sức khỏe. Nước ép rau quả giàu chất xơ và chất dinh dưỡng thực vật. Nước ép rau quả mang đến cho bạn một chế độ ăn uống cân bằng. Các chất dinh dưỡng thực vật và vitamin có trong nước ép rau quả giúp cơ thể ngăn ngừa một số căn bệnh mãn tính. Nước ép rau và trái cây được biết đến với rất nhiều lợi ích sức khỏe và rất dễ hấp thụ. Nước ép rau quả giúp làm giảm bớt hầu hết các bệnh như cholesterol cao, nồng độ axit uric tăng, lo lắng, rụng tóc, stress...
 
 Dưới đây là 7 loại nước ép giúp hỗ trợ điều trị 7 chứng bệnh thường gặp. 
