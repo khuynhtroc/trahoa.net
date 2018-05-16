@@ -26,9 +26,10 @@ Có thể bạn am hiểu về sức khỏe, ăn uống, hoạt động thể th
 Đây là bằng chứng cho thấy không nên bỏ ăn các loại lúa mỳ, lúa mạch và lúa mạch đen trừ khi có cảnh báo cấm ăn từ bác sỹ.
 
 Những người thường xuyên tiêu thụ thực phẩm có chứa gluten ít bị bệnh tiểu đường hơn 13% so với những người khác. Đây là kết quả trong một cuộc nghiên cứu của Hiệp hội Tim mạch Mỹ (US Heart Association) với gần 200.000 người.
+
 Điều này được giải thích là do những người tránh tiêu thụ thực phẩm chứa gluten có xu hướng ăn ít ngũ cốc giàu chất xơ - thành phần có vai trò quan trọng trong việc giảm nguy cơ mắc bệnh tiểu đường.
 
- Giáo sư của Hiệp hội chuyên nghiên cứu về bệnh tiểu đường, Deborah Malkoff, nhận định: Các chế độ ăn giàu chất xơ giúp cải thiện insulin, giảm viêm, giảm huyết áp và cholesterol 
+Giáo sư của Hiệp hội chuyên nghiên cứu về bệnh tiểu đường, Deborah Malkoff, nhận định: Các chế độ ăn giàu chất xơ giúp cải thiện insulin, giảm viêm, giảm huyết áp và cholesterol 
 
 ## 2. Sống một mình quá nhiều dẫn đến cô đơn
 
