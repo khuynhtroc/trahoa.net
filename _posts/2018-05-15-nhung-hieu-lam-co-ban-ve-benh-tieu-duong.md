@@ -73,23 +73,30 @@ Theo các nhà nghiên cứu đối với thịt đã chế biến, chất bảo
 Ngoài các yếu tố nguy cơ trên, sau đây là một số yếu tố liên quan đến bệnh tiểu đường ít người biết tới:
 
 **Thân hình “trái táo”:** 
+
 Theo Tổ chức Diabetes UK (Anh), phụ nữ có vòng eo 80 cm và đàn ông có vòng bụng 90 cm có nguy cơ bị tiểu đường týp 2 tăng cao. Điều đó có nghĩa là những ai có thân hình mảnh dẻ nhưng vòng 2 “quá khổ” hoặc có tạng người hình “trái táo” có nguy cơ bị tiểu đường cao hơn những người mập ở những vùng khác như mông hoặc đùi. Nguyên nhân là vì lượng mỡ tích tụ quanh các nội tạng trong bụng có thể sinh ra những chất gây mất cân bằng insulin và glucose, gây ra bệnh.
 
 **Ngủ không đủ giấc:** 
+
 <img  src="https://i.imgur.com/jHKuA2f.jpg" alt="bệnh tiểu đường" class="image_fade responsive-img lazy" border="2">
 Theo nghiên cứu của các chuyên gia thuộc Đại học Boston (Mỹ), những người ngủ ít hơn 5 giờ mỗi ngày có nguy cơ mắc bệnh cao gấp đôi so với người ngủ 7-8 giờ. Các nhà khoa học cho rằng thiếu ngủ làm rối loạn đồng hồ sinh học, vốn có nhiệm vụ điều chỉnh chu kỳ thức – ngủ tự nhiên của cơ thể, làm tăng hàm lượng hormone gây stress là cortisol và gây mất cân bằng glucose trong cơ thể.
 
 **Buồng trứng đa nang:**
+
 Tình trạng này có thể dẫn đến bệnh tiểu đường loại 2, nhưng ít người nhận biết được nguy cơ đó do đa nang buồng trứng có liên quan đến tình trạng mất cân bằng insulin. Cùng với chức năng kiểm soát đường huyết, insulin cũng kích thích buồng trứng tạo ra nội tiết tố testosterone quá mức ở phụ nữ. Khi mức insulin bắt đầu tăng nhiều và gây tổn hại buồng trứng và tuyến tụy, người phụ nữ có thể mắc bệnh tiểu đường.
 
 **Ngáy ngủ:**
+
 Những người mắc tật ngáy ngủ nặng có nguy cơ mắc bệnh tiểu đường tăng thêm 50%. Đó là kết luận được các nhà khoa học thuộc Đại học Yale (Mỹ) rút ra sau khi theo dõi đường huyết và huyết áp của 1.200 bệnh nhân mắc hội chứng ngưng thở khi ngủ. Tật ngáy càng nặng, nguy cơ cao huyết áp càng lớn và đàn ông dễ mắc bệnh hơn phụ nữ.
 
 **Bỏ bữa ăn sáng:**
+
 <img  src="https://i.imgur.com/Yo4MgPO.jpg" alt="bệnh tiểu đường" class="image_fade responsive-img lazy" border="2">
+
 Các chuyên gia Úc gần đây phát hiện những người thường bỏ qua bữa ăn sáng có thể bị hạ đường huyết đột ngột, khiến họ thèm ăn món ngọt. Việc giải tỏa cơn thèm sẽ làm đường huyết tăng đột ngột và kích thích sản sinh insulin quá mức, gây ra bệnh.
 
 **Giờ giấc công việc bất thường:**
+
 Nghiên cứu của Đại học Harvard (Mỹ) cho thấy người thường xuyên đổi ca làm việc giữa ngày và đêm trong thời gian dài có nguy cơ mắc bệnh tiểu đường thể 2 tăng 50%. Lý do là những người có giờ giấc làm việc không ổn định dẫn đến rối loạn nhịp sinh học, gây ra bệnh.
 
 ## III. Những hiều lầm căn bản về bệnh tiểu đường
@@ -112,6 +119,7 @@ Tuy nhiên ở những người mắc bệnh tiểu đường loại 2, tuyến 
 ### 4. Ăn quá nhiều đường có thể gây bệnh tiểu đường
 
 <img  src="https://i.imgur.com/JwUBvYt.jpg" alt="bệnh tiểu đường" class="image_fade responsive-img lazy" border="2">
+
 Rất nhiều người nghĩ rằng ăn quá nhiều đường hay đồ ngọt sẽ bị bệnh tiểu đường. Điều này không hoàn toàn đúng.
 Ở những người khỏe mạnh, khi ăn thức ăn giàu tinh bột sẽ làm đường trong máu tăng cao sau ăn, cơ thể sẽ phản ứng lại bằng cách tiết ra nhiều insulin để đưa đường glucose từ máu và tế bào và giữ cho lượng đường trong máu luôn ổn định.
 
@@ -129,7 +137,9 @@ Trong nhiều trường hợp đi tiểu nhiều là có thể do lượng đư�
 Thực tế cho thấy ngày nay, trẻ em từ 5 tuổi trở lên là đã có thể được chẩn đoán với bệnh tiểu đường type 2. Đó là một sự thay đổi lớn so với 20-30 năm trước đây. Để giúp ngăn ngừa bệnh tiểu đường ở trẻ em, cha mẹ nên cố gắng khuyến khích những thói quen tốt cho cả gia đình.
  
 ## IV. Lời khuyên
+
 <img  src="https://i.imgur.com/NiS1qqP.jpg" alt="bệnh tiểu đường" class="image_fade responsive-img lazy" border="2">
+
 Tiểu đường như chúng ta biết, nó không phải là một căn bệnh nan y không thể cứu chữa. Tuy nhiên để có thể đẩy lùi được số lượng người mắc bệnh tiểu đường cũng như để có những biện pháp chữa trị kịp thời và phù hợp nhất, mỗi người đều cần phải tự trang bị cho mình những thông tin chính xác và hữu ích về căn bệnh này. Tránh việc tìm hiểu chưa kỹ về bệnh để dẫn đến những tiêu cực trong suy nghĩ.
  
 Ngoài ra với người đã mắc bệnh tiểu đường, cần xây dựng cho bản thân một thời gian biểu sinh hoạt, làm việc, nghỉ ngơi hợp lý; một chế độ ăn hạn chế tinh bột, đường và chất béo nhưng vẫn đảm bảo đủ chất dinh dưỡng. Và trên hết là phải tập thể dục đều đặn để nâng cao sức đề kháng cho cơ thể.
@@ -137,7 +147,7 @@ Ngoài ra với người đã mắc bệnh tiểu đường, cần xây dựng c
 Các bạn cũng hoàn toàn có thể sử dụng thêm các sản phẩm có nguồn gốc từ thảo mộc thiên nhiên như **Trà hoa Bình Chi** với hương thơm nhẹ dịu và vị dễ uống, thành phần 100% thảo mộc thiên nhiên, đặc biệt hỗ trợ cho người tiểu đường rất tốt.
  
 ***LIÊN HỆ***
-Công ty CP Tân Bình Chi
-Hotline: 0939.87.82.82 - 0963.26.73.68
-Address: Tầng 7-11, số 12 Khuất Duy Tiến, Thanh Xuân, Hà Nội.
-Fanpage: https://facebook.com/BinhChiTrahoa.Thanhnhiet.Giaidoc
+Công ty CP Tân Bình Chi<br />
+Hotline: 0939.87.82.82 - 0963.26.73.68<br />
+Address: Tầng 7-11, số 12 Khuất Duy Tiến, Thanh Xuân, Hà Nội <br />
+Fanpage: https://facebook.com/BinhChiTrahoa.Thanhnhiet.Giaidoc<br />
