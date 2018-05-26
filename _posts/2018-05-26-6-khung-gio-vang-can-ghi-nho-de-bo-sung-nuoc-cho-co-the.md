@@ -13,7 +13,7 @@ permalink: "/6-khung-gio-vang-de-bo-sung-nuoc.html"
 published: true
 sitemap: true
 image: "https://i.imgur.com/x4V7pOt.jpg"
-date: 2018-05-65 13:10:00
+date: 2018-05-26 13:10:00
 author: Ngọc Thanh
 ---
 
