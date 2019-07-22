@@ -11,7 +11,6 @@ bing_verify: ""
 google_analytics: "UA-116691813-1"
 google_plus: 
 disqus_shortname: "trahoa"
-published: false
 
 # Build Settings
 markdown: "kramdown"
